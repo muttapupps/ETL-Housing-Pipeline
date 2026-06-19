@@ -1,0 +1,3265 @@
+hud_area_name,fips,fmr_1br,fmr_2br,fmr_3br
+"Montgomery, AL MSA",01001,870,1016,1304
+"Daphne-Fairhope-Foley, AL MSA",01003,1200,1345,1692
+"Barbour County, AL",01005,693,776,1017
+"Birmingham-Hoover, AL HUD Metro FMR Area",01007,1155,1266,1583
+"Birmingham-Hoover, AL HUD Metro FMR Area",01009,1155,1266,1583
+"Bullock County, AL",01011,708,776,930
+"Butler County, AL",01013,638,837,1004
+"Anniston-Oxford, AL MSA",01015,757,962,1300
+"Chambers County, AL",01017,770,1002,1265
+"Cherokee County, AL",01019,682,844,1012
+"Chilton County, AL HUD Metro FMR Area",01021,739,970,1274
+"Choctaw County, AL",01023,616,778,1024
+"Clarke County, AL",01025,603,791,1034
+"Clay County, AL",01027,591,776,1024
+"Cleburne County, AL",01029,687,867,1082
+"Coffee County, AL",01031,711,933,1298
+"Florence-Muscle Shoals, AL MSA",01033,775,1000,1242
+"Conecuh County, AL",01035,615,776,1079
+"Coosa County, AL",01037,615,776,1079
+"Covington County, AL",01039,591,776,999
+"Crenshaw County, AL",01041,591,776,930
+"Cullman County, AL",01043,670,879,1137
+"Dale County, AL",01045,690,776,1079
+"Dallas County, AL",01047,637,836,1103
+"DeKalb County, AL",01049,591,776,992
+"Montgomery, AL MSA",01051,870,1016,1304
+"Escambia County, AL",01053,675,776,972
+"Gadsden, AL MSA",01055,792,927,1124
+"Fayette County, AL",01057,671,776,1079
+"Franklin County, AL",01059,704,776,976
+"Dothan, AL HUD Metro FMR Area",01061,762,950,1288
+"Greene County, AL HUD Metro FMR Area",01063,869,1140,1367
+"Tuscaloosa, AL HUD Metro FMR Area",01065,972,1169,1490
+"Henry County, AL HUD Metro FMR Area",01067,669,878,1078
+"Dothan, AL HUD Metro FMR Area",01069,762,950,1288
+"Jackson County, AL",01071,643,776,1004
+"Birmingham-Hoover, AL HUD Metro FMR Area",01073,1155,1266,1583
+"Lamar County, AL",01075,636,776,1024
+"Florence-Muscle Shoals, AL MSA",01077,775,1000,1242
+"Decatur, AL MSA",01079,776,961,1262
+"Auburn-Opelika, AL HUD Metro FMR Area",01081,1077,1181,1494
+"Huntsville, AL MSA",01083,1136,1310,1690
+"Montgomery, AL MSA",01085,870,1016,1304
+"Macon County, AL HUD Metro FMR Area",01087,758,995,1222
+"Huntsville, AL MSA",01089,1136,1310,1690
+"Marengo County, AL",01091,693,783,1018
+"Marion County, AL",01093,591,776,1039
+"Marshall County, AL",01095,591,776,1069
+"Mobile, AL MSA",01097,919,1083,1414
+"Monroe County, AL",01099,619,776,1079
+"Montgomery, AL MSA",01101,870,1016,1304
+"Decatur, AL MSA",01103,776,961,1262
+"Perry County, AL",01105,636,803,963
+"Pickens County, AL HUD Metro FMR Area",01107,591,776,994
+"Pike County, AL",01109,695,912,1093
+"Randolph County, AL",01111,634,778,980
+"Columbus, GA-AL HUD Metro FMR Area",01113,939,1088,1445
+"Birmingham-Hoover, AL HUD Metro FMR Area",01115,1155,1266,1583
+"Birmingham-Hoover, AL HUD Metro FMR Area",01117,1155,1266,1583
+"Sumter County, AL",01119,642,827,1107
+"Talladega County, AL",01121,682,814,1107
+"Tallapoosa County, AL",01123,663,857,1030
+"Tuscaloosa, AL HUD Metro FMR Area",01125,972,1169,1490
+"Walker County, AL HUD Metro FMR Area",01127,724,886,1232
+"Washington County, AL",01129,818,983,1292
+"Wilcox County, AL",01131,656,843,1079
+"Winston County, AL",01133,631,776,1070
+"Aleutians East Borough, AK",02013,1263,1385,1661
+"Aleutians West Census Area, AK",02016,1670,2191,2652
+"Anchorage, AK HUD Metro FMR Area",02020,1243,1631,2268
+"Bethel Census Area, AK",02050,1719,1938,2324
+"Bristol Bay Borough, AK",02060,1134,1243,1729
+"Chugach Census Area, AK",02063,1374,1506,2094
+"Copper River Census Area, AK",02066,930,1130,1572
+"Denali Borough, AK",02068,935,1187,1651
+"Dillingham Census Area, AK",02070,1138,1247,1734
+"Fairbanks-College, AK MSA",02090,1277,1676,2331
+"Haines Borough, AK",02100,1033,1321,1771
+"Hoonah-Angoon Census Area, AK",02105,1113,1460,1751
+"Juneau City and Borough, AK",02110,1340,1758,2368
+"Kenai Peninsula Borough, AK",02122,1000,1312,1825
+"Ketchikan Gateway Borough, AK",02130,1238,1625,2260
+"Kodiak Island Borough, AK",02150,1581,2075,2488
+Kusilvak Census Area,02158,767,973,1353
+"Lake and Peninsula Borough, AK",02164,894,1030,1391
+"Matanuska-Susitna Borough, AK HUD Metro FMR Area",02170,1049,1376,1914
+"Nome Census Area, AK",02180,1334,1533,2132
+"North Slope Borough, AK",02185,1239,1625,1958
+"Northwest Arctic Borough, AK",02188,1471,1930,2547
+Petersburg Borough,02195,1211,1463,1754
+"Prince of Wales-Hyder Census Area, AK",02198,1030,1153,1464
+"Sitka City and Borough, AK",02220,1350,1566,2178
+"Skagway Municipality, AK",02230,1253,1644,2245
+"Southeast Fairbanks Census Area, AK",02240,1198,1313,1826
+"Wrangell City and Borough, AK",02275,928,1217,1682
+"Yakutat City and Borough, AK",02282,1094,1388,1753
+"Yukon-Koyukuk Census Area, AK",02290,1019,1126,1566
+"Apache County, AZ",04001,903,1175,1599
+"Sierra Vista-Douglas, AZ MSA",04003,1111,1257,1748
+"Flagstaff, AZ MSA",04005,1727,1921,2343
+"Gila County, AZ",04007,1127,1479,1871
+"Graham County, AZ",04009,991,1244,1669
+"Greenlee County, AZ",04011,970,1158,1388
+"La Paz County, AZ",04012,879,1153,1604
+"Phoenix-Mesa-Chandler, AZ MSA",04013,1583,1839,2452
+"Lake Havasu City-Kingman, AZ MSA",04015,1060,1365,1897
+"Navajo County, AZ",04017,1026,1309,1622
+"Tucson, AZ MSA",04019,1081,1402,1950
+"Phoenix-Mesa-Chandler, AZ MSA",04021,1583,1839,2452
+"Santa Cruz County, AZ",04023,860,1129,1570
+"Prescott Valley-Prescott, AZ MSA",04025,1309,1637,2277
+"Yuma, AZ MSA",04027,1053,1382,1892
+"Arkansas County, AR",05001,703,922,1159
+"Ashley County, AR",05003,671,880,1055
+"Baxter County, AR",05005,735,964,1274
+"Fayetteville-Springdale-Rogers, AR MSA",05007,1115,1347,1873
+"Boone County, AR",05009,671,880,1224
+"Bradley County, AR",05011,710,880,1212
+"Calhoun County, AR",05013,771,1011,1212
+"Carroll County, AR",05015,742,954,1144
+"Chicot County, AR",05017,671,880,1150
+"Clark County, AR",05019,731,880,1221
+"Clay County, AR",05021,671,880,1191
+"Cleburne County, AR",05023,735,955,1228
+"Cleveland County, AR",05025,671,880,1055
+"Columbia County, AR",05027,688,903,1191
+"Conway County, AR",05029,671,880,1224
+"Jonesboro, AR HUD Metro FMR Area",05031,870,1040,1402
+"Fort Smith, AR-OK MSA",05033,714,937,1266
+"Memphis, TN-MS-AR HUD Metro FMR Area",05035,1154,1274,1683
+"Cross County, AR",05037,671,880,1224
+"Dallas County, AR",05039,671,880,1207
+"Desha County, AR",05041,671,880,1208
+"Drew County, AR",05043,706,927,1224
+"Little Rock-North Little Rock-Conway, AR HUD Metro FMR Area",05045,989,1147,1540
+"Franklin County, AR",05047,671,880,1094
+"Fulton County, AR",05049,746,880,1145
+"Hot Springs, AR MSA",05051,834,1090,1393
+"Grant County, AR HUD Metro FMR Area",05053,800,968,1226
+"Greene County, AR",05055,772,905,1259
+"Hempstead County, AR",05057,692,908,1188
+"Hot Spring County, AR",05059,671,880,1155
+"Howard County, AR",05061,673,883,1059
+"Independence County, AR",05063,688,891,1175
+"Izard County, AR",05065,715,880,1202
+"Jackson County, AR",05067,671,880,1055
+"Jefferson County, AR",05069,728,937,1224
+"Johnson County, AR",05071,674,884,1083
+"Lafayette County, AR",05073,671,880,1055
+"Lawrence County, AR",05075,671,880,1089
+"Lee County, AR",05077,671,880,1224
+"Lincoln County, AR",05079,671,880,1224
+"Little River County, AR HUD Metro FMR Area",05081,671,880,1166
+"Logan County, AR",05083,803,880,1224
+"Little Rock-North Little Rock-Conway, AR HUD Metro FMR Area",05085,989,1147,1540
+"Fayetteville-Springdale-Rogers, AR MSA",05087,1115,1347,1873
+"Marion County, AR",05089,692,908,1132
+"Texarkana, TX-Texarkana, AR HUD Metro FMR Area",05091,868,1101,1369
+"Mississippi County, AR",05093,671,880,1161
+"Monroe County, AR",05095,671,880,1055
+"Montgomery County, AR",05097,803,880,1096
+"Nevada County, AR",05099,694,911,1092
+"Newton County, AR",05101,803,880,1055
+"Ouachita County, AR",05103,694,880,1133
+"Little Rock-North Little Rock-Conway, AR HUD Metro FMR Area",05105,989,1147,1540
+"Phillips County, AR",05107,671,880,1224
+"Pike County, AR",05109,803,880,1224
+"Poinsett County, AR HUD Metro FMR Area",05111,685,880,1161
+"Polk County, AR",05113,703,897,1076
+"Pope County, AR",05115,715,938,1254
+"Prairie County, AR",05117,671,880,1150
+"Little Rock-North Little Rock-Conway, AR HUD Metro FMR Area",05119,989,1147,1540
+"Randolph County, AR",05121,681,880,1224
+"St. Francis County, AR",05123,703,923,1161
+"Little Rock-North Little Rock-Conway, AR HUD Metro FMR Area",05125,989,1147,1540
+"Scott County, AR",05127,671,880,1159
+"Searcy County, AR",05129,671,880,1224
+"Fort Smith, AR-OK MSA",05131,714,937,1266
+"Sevier County, AR",05133,671,880,1097
+"Sharp County, AR",05135,671,880,1224
+"Stone County, AR",05137,693,909,1264
+"Union County, AR",05139,718,923,1111
+"Van Buren County, AR",05141,671,880,1186
+"Fayetteville-Springdale-Rogers, AR MSA",05143,1115,1347,1873
+"White County, AR",05145,734,880,1149
+"Woodruff County, AR",05147,803,880,1157
+"Yell County, AR",05149,692,880,1224
+"Oakland-Fremont, CA HUD Metro FMR Area",06001,2385,2912,3724
+"Alpine County, CA",06003,1165,1529,2126
+"Amador County, CA",06005,1396,1698,2220
+"Chico, CA MSA",06007,1270,1625,2260
+"Calaveras County, CA",06009,1175,1542,2145
+"Colusa County, CA",06011,995,1306,1723
+"Oakland-Fremont, CA HUD Metro FMR Area",06013,2385,2912,3724
+"Del Norte County, CA",06015,1222,1370,1905
+"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",06017,1832,2255,3002
+"Fresno, CA HUD Metro FMR Area",06019,1355,1664,2314
+"Glenn County, CA",06021,1038,1362,1807
+"Humboldt County, CA",06023,1186,1550,2156
+"El Centro, CA MSA",06025,1038,1362,1845
+"Inyo County, CA",06027,1381,1514,1940
+"Bakersfield-Delano, CA MSA",06029,1140,1483,2062
+"Hanford-Corcoran, CA MSA",06031,1157,1469,2043
+"Lake County, CA",06033,1181,1549,2154
+"Lassen County, CA",06035,1016,1279,1779
+"Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",06037,2085,2601,3298
+"Madera County, CA HUD Metro FMR Area",06039,1062,1376,1914
+"San Francisco, CA HUD Metro FMR Area",06041,2977,3604,4604
+"Mariposa County, CA",06043,1148,1454,2022
+"Mendocino County, CA",06045,1306,1713,2382
+"Merced, CA MSA",06047,1213,1503,2067
+"Modoc County, CA",06049,883,1108,1434
+"Mono County, CA",06051,1528,1675,2330
+"Salinas, CA MSA",06053,2232,2684,3623
+"Napa, CA MSA",06055,2113,2773,3532
+"Nevada County, CA",06057,1382,1813,2521
+"Santa Ana-Anaheim-Irvine, CA HUD Metro FMR Area",06059,2746,3236,4393
+"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",06061,1832,2255,3002
+"Plumas County, CA",06063,1075,1411,1962
+"Riverside-San Bernardino-Ontario, CA MSA",06065,1777,2201,2912
+"Sacramento--Roseville--Arden-Arcade, CA HUD Metro FMR Area",06067,1832,2255,3002
+"San Benito County, CA HUD Metro FMR Area",06069,2212,2902,3944
+"Riverside-San Bernardino-Ontario, CA MSA",06071,1777,2201,2912
+"San Diego-Chula Vista-Carlsbad, CA MSA",06073,2459,3001,3998
+"San Francisco, CA HUD Metro FMR Area",06075,2977,3604,4604
+"Stockton-Lodi, CA MSA",06077,1395,1742,2423
+"San Luis Obispo-Paso Robles, CA MSA",06079,1914,2512,3370
+"San Francisco, CA HUD Metro FMR Area",06081,2977,3604,4604
+"Santa Maria-Santa Barbara, CA MSA",06083,2746,3124,4075
+"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",06085,2982,3483,4602
+"Santa Cruz-Watsonville, CA MSA",06087,3298,4214,5377
+"Redding, CA MSA",06089,1212,1590,2211
+"Sierra County, CA",06091,1165,1529,2126
+"Siskiyou County, CA",06093,969,1249,1737
+"Vallejo, CA MSA",06095,1705,2178,2911
+"Santa Rosa-Petaluma, CA MSA",06097,2155,2827,3887
+"Modesto, CA MSA",06099,1356,1758,2442
+"Yuba City, CA MSA",06101,1272,1550,2156
+"Tehama County, CA",06103,1038,1362,1865
+"Trinity County, CA",06105,916,1202,1636
+"Visalia, CA MSA",06107,1123,1474,2028
+"Tuolumne County, CA",06109,1257,1589,2078
+"Oxnard-Thousand Oaks-Ventura, CA MSA",06111,2250,2693,3652
+"Yolo, CA HUD Metro FMR Area",06113,1615,2104,2917
+"Yuba City, CA MSA",06115,1272,1550,2156
+"Denver-Aurora-Centennial, CO MSA",08001,1754,2089,2734
+"Alamosa County, CO",08003,833,999,1389
+"Denver-Aurora-Centennial, CO MSA",08005,1754,2089,2734
+"Archuleta County, CO",08007,1141,1337,1859
+"Baca County, CO",08009,771,973,1353
+"Bent County, CO",08011,777,1019,1417
+"Boulder, CO MSA",08013,1795,2124,2820
+"Denver-Aurora-Centennial, CO MSA",08014,1754,2089,2734
+"Chaffee County, CO",08015,1117,1466,2039
+"Cheyenne County, CO",08017,796,1044,1343
+"Denver-Aurora-Centennial, CO MSA",08019,1754,2089,2734
+"Conejos County, CO",08021,865,973,1332
+"Costilla County, CO",08023,742,973,1353
+"Crowley County, CO",08025,982,1289,1546
+"Custer County, CO",08027,856,1112,1333
+"Delta County, CO",08029,865,1114,1537
+"Denver-Aurora-Centennial, CO MSA",08031,1754,2089,2734
+"Dolores County, CO",08033,1017,1115,1423
+"Denver-Aurora-Centennial, CO MSA",08035,1754,2089,2734
+"Eagle County, CO",08037,1813,2379,2852
+"Denver-Aurora-Centennial, CO MSA",08039,1754,2089,2734
+"Colorado Springs, CO HUD Metro FMR Area",08041,1464,1735,2413
+"Fremont County, CO",08043,948,1244,1593
+"Garfield County, CO",08045,1223,1605,2232
+"Denver-Aurora-Centennial, CO MSA",08047,1754,2089,2734
+"Grand County, CO",08049,1318,1475,1769
+"Gunnison County, CO",08051,1149,1334,1855
+"Hinsdale County, CO",08053,873,1145,1461
+"Huerfano County, CO",08055,811,1013,1215
+"Jackson County, CO",08057,754,989,1262
+"Denver-Aurora-Centennial, CO MSA",08059,1754,2089,2734
+"Kiowa County, CO",08061,873,1146,1463
+"Kit Carson County, CO",08063,833,1093,1311
+"Lake County, CO",08065,1024,1343,1714
+"La Plata County, CO",08067,1211,1589,1942
+"Fort Collins-Loveland, CO MSA",08069,1537,1732,2385
+"Las Animas County, CO",08071,880,1155,1425
+"Lincoln County, CO",08073,774,1016,1413
+"Logan County, CO",08075,839,1101,1452
+"Grand Junction, CO MSA",08077,986,1249,1737
+"Mineral County, CO",08079,1024,1343,1714
+"Moffat County, CO",08081,887,1164,1396
+"Montezuma County, CO",08083,906,1180,1569
+"Montrose County, CO",08085,890,1168,1624
+"Morgan County, CO",08087,884,1160,1606
+"Otero County, CO",08089,742,973,1303
+"Ouray County, CO",08091,1245,1526,2122
+"Denver-Aurora-Centennial, CO MSA",08093,1754,2089,2734
+"Phillips County, CO",08095,803,1054,1345
+"Pitkin County, CO",08097,2020,2214,2826
+"Prowers County, CO",08099,888,973,1249
+"Pueblo, CO MSA",08101,967,1269,1617
+"Rio Blanco County, CO",08103,769,1009,1285
+"Rio Grande County, CO",08105,976,1094,1312
+"Routt County, CO",08107,1845,2022,2424
+"Saguache County, CO",08109,797,975,1295
+"San Juan County, CO",08111,1119,1227,1509
+"San Miguel County, CO",08113,1254,1645,2288
+"Sedgwick County, CO",08115,759,973,1167
+"Summit County, CO",08117,1880,2467,2958
+"Teller County, CO HUD Metro FMR Area",08119,1362,1493,2076
+"Washington County, CO",08121,856,1114,1336
+"Greeley, CO MSA",08123,1238,1563,2174
+"Yuma County, CO",08125,809,1061,1361
+"Hartford-West Hartford-East Hartford, CT MSA",09110,1477,1865,2236
+"Bridgeport-Stamford-Danbury, CT MSA",09120,2100,2511,3036
+"Hartford-West Hartford-East Hartford, CT MSA",09130,1477,1865,2236
+"Clinton town, CT Exception Area",09130,1477,1865,2236
+"Deep River town, CT Exception Area",09130,1477,1865,2236
+"Essex town, CT Exception Area",09130,1477,1865,2236
+"Killingworth town, CT Exception Area",09130,1477,1865,2236
+"Old Saybrook town, CT Exception Area",09130,1477,1865,2236
+"Westbrook town, CT Exception Area",09130,1477,1865,2236
+"Ansonia town, CT Exception Area",09140,1445,1788,2210
+"Beacon Falls town, CT Exception Area",09140,1445,1788,2210
+"Waterbury-Shelton, CT MSA",09140,1445,1788,2210
+"Cheshire town, CT Exception Area",09140,1445,1788,2210
+"Derby town, CT Exception Area",09140,1445,1788,2210
+"Oxford town, CT Exception Area",09140,1445,1788,2210
+"Seymour town, CT Exception Area",09140,1445,1788,2210
+"Northeastern Connecticut Planning Region, CT",09150,1304,1601,2062
+"Voluntown town, CT Exception Area",09150,1304,1601,2062
+"Northwest Hills Planning Region, CT",09160,1316,1616,2082
+"New Haven, CT MSA",09170,1591,1969,2433
+"Norwich-New London-Willimantic, CT MSA",09180,1496,1866,2406
+"Bridgeport-Stamford-Danbury, CT MSA",09190,2100,2511,3036
+"Dover, DE MSA",10001,1165,1470,2044
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",10003,1520,1810,2170
+"Sussex County, DE",10005,1066,1399,1757
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",11001,2015,2246,2835
+"Gainesville, FL HUD Metro FMR Area",12001,1246,1493,1868
+"Baker County, FL HUD Metro FMR Area",12003,922,1103,1512
+"Panama City, FL HUD Metro FMR Area",12005,1480,1682,2169
+"Bradford County, FL",12007,1022,1120,1433
+"Palm Bay-Melbourne-Titusville, FL MSA",12009,1478,1709,2330
+"Fort Lauderdale, FL HUD Metro FMR Area",12011,1900,2333,3216
+"Calhoun County, FL",12013,888,973,1283
+"Punta Gorda, FL MSA",12015,1167,1470,2041
+"Homosassa Springs, FL MSA",12017,988,1225,1704
+"Jacksonville, FL HUD Metro FMR Area",12019,1382,1658,2043
+"Naples-Marco Island, FL MSA",12021,1797,1986,2581
+"Columbia County, FL",12023,1034,1318,1580
+"DeSoto County, FL",12027,1060,1209,1663
+"Dixie County, FL",12029,881,1156,1525
+"Jacksonville, FL HUD Metro FMR Area",12031,1382,1658,2043
+"Pensacola-Ferry Pass-Brent, FL MSA",12033,1257,1471,1952
+"Palm Coast, FL HUD Metro FMR Area",12035,1433,1806,2468
+"Franklin County, FL",12037,1058,1186,1564
+"Tallahassee, FL HUD Metro FMR Area",12039,1204,1352,1674
+"Gainesville, FL HUD Metro FMR Area",12041,1246,1493,1868
+"Glades County, FL",12043,1117,1252,1516
+"Gulf County, FL",12045,1297,1702,2041
+"Hamilton County, FL",12047,875,981,1294
+"Hardee County, FL",12049,1064,1248,1691
+"Hendry County, FL",12051,1077,1271,1567
+"Tampa-St. Petersburg-Clearwater, FL MSA",12053,1696,1977,2527
+"Sebring, FL MSA",12055,1006,1271,1538
+"Tampa-St. Petersburg-Clearwater, FL MSA",12057,1696,1977,2527
+"Holmes County, FL",12059,983,1078,1423
+"Sebastian-Vero Beach-West Vero Corridor, FL MSA",12061,1222,1604,1956
+"Jackson County, FL",12063,814,1068,1404
+"Tallahassee, FL HUD Metro FMR Area",12065,1204,1352,1674
+"Lafayette County, FL",12067,1181,1323,1586
+"Orlando-Kissimmee-Sanford, FL MSA",12069,1731,1972,2476
+"Cape Coral-Fort Myers, FL MSA",12071,1638,1961,2560
+"Tallahassee, FL HUD Metro FMR Area",12073,1204,1352,1674
+"Levy County, FL HUD Metro FMR Area",12075,831,974,1238
+"Liberty County, FL",12077,966,1083,1488
+"Madison County, FL",12079,969,1086,1400
+"North Port-Bradenton-Sarasota, FL MSA",12081,1686,1958,2537
+"Ocala, FL MSA",12083,1172,1373,1772
+"Port St. Lucie, FL MSA",12085,1467,1757,2421
+"Miami-Miami Beach-Kendall, FL HUD Metro FMR Area",12086,1995,2436,3127
+"Monroe County, FL",12087,2211,2504,3303
+"Jacksonville, FL HUD Metro FMR Area",12089,1382,1658,2043
+"Crestview-Fort Walton Beach-Destin, FL HUD Metro FMR Area",12091,1581,1785,2448
+"Okeechobee County, FL",12093,1032,1346,1650
+"Orlando-Kissimmee-Sanford, FL MSA",12095,1731,1972,2476
+"Orlando-Kissimmee-Sanford, FL MSA",12097,1731,1972,2476
+"West Palm Beach-Boca Raton, FL HUD Metro FMR Area",12099,1901,2254,2920
+"Tampa-St. Petersburg-Clearwater, FL MSA",12101,1696,1977,2527
+"Tampa-St. Petersburg-Clearwater, FL MSA",12103,1696,1977,2527
+"Lakeland-Winter Haven, FL MSA",12105,1230,1497,2023
+"Putnam County, FL",12107,880,1155,1452
+"Jacksonville, FL HUD Metro FMR Area",12109,1382,1658,2043
+"Port St. Lucie, FL MSA",12111,1467,1757,2421
+"Pensacola-Ferry Pass-Brent, FL MSA",12113,1257,1471,1952
+"North Port-Bradenton-Sarasota, FL MSA",12115,1686,1958,2537
+"Orlando-Kissimmee-Sanford, FL MSA",12117,1731,1972,2476
+"Wildwood-The Villages, FL MSA",12119,1139,1328,1655
+"Suwannee County, FL",12121,1013,1110,1484
+"Taylor County, FL",12123,908,1018,1343
+"Union County, FL",12125,863,1132,1421
+"Deltona-Daytona Beach-Ormond Beach, FL HUD Metro FMR Area",12127,1385,1700,2241
+"Wakulla County, FL HUD Metro FMR Area",12129,1073,1199,1561
+"Walton County, FL HUD Metro FMR Area",12131,1244,1364,1897
+"Washington County, FL HUD Metro FMR Area",12133,928,1017,1257
+"Appling County, GA",13001,770,973,1313
+"Atkinson County, GA",13003,760,973,1168
+"Bacon County, GA",13005,770,973,1353
+"Baker County, GA",13007,770,973,1353
+"Baldwin County, GA",13009,894,1073,1287
+"Banks County, GA",13011,770,973,1217
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13013,1660,1820,2182
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13015,1660,1820,2182
+"Ben Hill County, GA",13017,793,973,1167
+"Berrien County, GA",13019,742,973,1353
+"Macon-Bibb County, GA HUD Metro FMR Area",13021,1158,1307,1567
+"Bleckley County, GA",13023,742,973,1266
+"Brunswick-St. Simons, GA MSA",13025,1105,1293,1550
+"Valdosta, GA MSA",13027,921,1192,1583
+"Savannah, GA MSA",13029,1533,1680,2235
+"Bulloch County, GA",13031,898,1178,1433
+"Augusta-Richmond County, GA-SC HUD Metro FMR Area",13033,1114,1261,1627
+"Butts County, GA HUD Metro FMR Area",13035,977,1075,1427
+"Calhoun County, GA",13037,770,973,1353
+"Camden County, GA",13039,1117,1225,1704
+"Candler County, GA",13043,770,973,1353
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13045,1660,1820,2182
+"Chattanooga, TN-GA MSA",13047,1263,1390,1734
+"Charlton County, GA",13049,790,1036,1242
+"Savannah, GA MSA",13051,1533,1680,2235
+"Columbus, GA-AL HUD Metro FMR Area",13053,939,1088,1445
+"Chattooga County, GA",13055,794,973,1353
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13057,1660,1820,2182
+"Athens-Clarke County, GA MSA",13059,1183,1331,1734
+"Clay County, GA",13061,770,973,1217
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13063,1660,1820,2182
+"Clinch County, GA",13065,770,973,1353
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13067,1660,1820,2182
+"Coffee County, GA",13069,885,973,1275
+"Colquitt County, GA",13071,742,973,1167
+"Augusta-Richmond County, GA-SC HUD Metro FMR Area",13073,1114,1261,1627
+"Cook County, GA",13075,770,973,1315
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13077,1660,1820,2182
+"Macon-Bibb County, GA HUD Metro FMR Area",13079,1158,1307,1567
+"Crisp County, GA",13081,785,973,1167
+"Chattanooga, TN-GA MSA",13083,1263,1390,1734
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13085,1660,1820,2182
+"Decatur County, GA",13087,850,973,1287
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13089,1660,1820,2182
+"Dodge County, GA",13091,742,973,1167
+"Dooly County, GA",13093,770,973,1283
+"Albany, GA MSA",13095,1006,1129,1534
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13097,1660,1820,2182
+"Early County, GA",13099,888,973,1238
+"Valdosta, GA MSA",13101,921,1192,1583
+"Savannah, GA MSA",13103,1533,1680,2235
+"Elbert County, GA",13105,836,1074,1288
+"Emanuel County, GA",13107,888,973,1239
+"Evans County, GA",13109,742,973,1167
+"Fannin County, GA",13111,742,973,1323
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13113,1660,1820,2182
+"Rome, GA MSA",13115,923,1192,1541
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13117,1660,1820,2182
+"Franklin County, GA",13119,775,1017,1219
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13121,1660,1820,2182
+"Gilmer County, GA",13123,830,1036,1357
+"Glascock County, GA",13125,770,973,1217
+"Brunswick-St. Simons, GA MSA",13127,1105,1293,1550
+"Gordon County, GA",13129,833,1011,1406
+"Grady County, GA",13131,742,973,1343
+"Greene County, GA",13133,808,973,1320
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13135,1660,1820,2182
+"Habersham County, GA",13137,855,1018,1357
+"Gainesville, GA MSA",13139,1381,1514,1834
+"Hancock County, GA",13141,770,973,1252
+"Haralson County, GA HUD Metro FMR Area",13143,844,1107,1345
+"Columbus, GA-AL HUD Metro FMR Area",13145,939,1088,1445
+"Hart County, GA",13147,821,1042,1249
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13149,1660,1820,2182
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13151,1660,1820,2182
+"Warner Robins, GA HUD Metro FMR Area",13153,1221,1362,1821
+"Irwin County, GA",13155,862,1089,1306
+"Jackson County, GA",13157,1004,1153,1483
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13159,1660,1820,2182
+"Jeff Davis County, GA",13161,770,973,1167
+"Jefferson County, GA",13163,793,973,1167
+"Jenkins County, GA",13165,770,973,1353
+"Johnson County, GA",13167,888,973,1181
+"Macon-Bibb County, GA HUD Metro FMR Area",13169,1158,1307,1567
+"Lamar County, GA",13171,759,973,1353
+"Valdosta, GA MSA",13173,921,1192,1583
+"Laurens County, GA",13175,742,973,1284
+"Albany, GA MSA",13177,1006,1129,1534
+"Hinesville, GA HUD Metro FMR Area",13179,1283,1406,1868
+"Lincoln County, GA HUD Metro FMR Area",13181,758,995,1305
+"Long County, GA HUD Metro FMR Area",13183,1034,1133,1409
+"Valdosta, GA MSA",13185,921,1192,1583
+"Lumpkin County, GA HUD Metro FMR Area",13187,1136,1245,1577
+"Augusta-Richmond County, GA-SC HUD Metro FMR Area",13189,1114,1261,1627
+"Brunswick-St. Simons, GA MSA",13191,1105,1293,1550
+"Macon County, GA",13193,742,973,1167
+"Athens-Clarke County, GA MSA",13195,1183,1331,1734
+"Columbus, GA-AL HUD Metro FMR Area",13197,939,1088,1445
+"Meriwether County, GA HUD Metro FMR Area",13199,763,1001,1392
+"Miller County, GA",13201,770,973,1353
+"Mitchell County, GA",13205,888,973,1275
+"Monroe County, GA HUD Metro FMR Area",13207,1048,1174,1408
+"Montgomery County, GA",13209,742,973,1353
+"Morgan County, GA HUD Metro FMR Area",13211,1315,1442,1729
+"Murray County, GA HUD Metro FMR Area",13213,827,1009,1403
+"Columbus, GA-AL HUD Metro FMR Area",13215,939,1088,1445
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13217,1660,1820,2182
+"Athens-Clarke County, GA MSA",13219,1183,1331,1734
+"Athens-Clarke County, GA MSA",13221,1183,1331,1734
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13223,1660,1820,2182
+"Peach County, GA HUD Metro FMR Area",13225,1030,1129,1466
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13227,1660,1820,2182
+"Pierce County, GA",13229,794,1042,1249
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13231,1660,1820,2182
+"Polk County, GA",13233,776,1018,1290
+"Pulaski County, GA",13235,858,1003,1280
+"Putnam County, GA",13237,898,1134,1546
+"Quitman County, GA",13239,770,973,1217
+"Rabun County, GA",13241,851,1117,1553
+"Randolph County, GA",13243,783,1028,1233
+"Augusta-Richmond County, GA-SC HUD Metro FMR Area",13245,1114,1261,1627
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13247,1660,1820,2182
+"Schley County, GA",13249,770,973,1342
+"Screven County, GA",13251,742,973,1222
+"Seminole County, GA",13253,770,973,1347
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13255,1660,1820,2182
+"Stephens County, GA",13257,767,1006,1275
+"Stewart County, GA HUD Metro FMR Area",13259,843,973,1293
+"Sumter County, GA",13261,829,1088,1305
+"Talbot County, GA HUD Metro FMR Area",13263,843,973,1353
+"Taliaferro County, GA",13265,770,973,1217
+"Tattnall County, GA",13267,742,973,1167
+"Taylor County, GA",13269,888,973,1353
+"Telfair County, GA",13271,852,973,1215
+"Albany, GA MSA",13273,1006,1129,1534
+"Thomas County, GA",13275,1048,1149,1456
+"Tift County, GA",13277,821,973,1174
+"Toombs County, GA",13279,784,973,1293
+"Towns County, GA",13281,888,973,1353
+"Treutlen County, GA",13283,742,973,1167
+"Troup County, GA",13285,947,1167,1459
+"Turner County, GA",13287,770,973,1283
+"Macon-Bibb County, GA HUD Metro FMR Area",13289,1158,1307,1567
+"Union County, GA",13291,750,984,1360
+"Upson County, GA",13293,888,973,1283
+"Chattanooga, TN-GA MSA",13295,1263,1390,1734
+"Atlanta-Sandy Springs-Roswell, GA HUD Metro FMR Area",13297,1660,1820,2182
+"Ware County, GA",13299,786,1031,1236
+"Warren County, GA",13301,770,973,1283
+"Washington County, GA",13303,797,999,1198
+"Wayne County, GA",13305,778,1021,1224
+"Webster County, GA",13307,770,973,1217
+"Wheeler County, GA",13309,770,973,1167
+"White County, GA",13311,948,1177,1411
+"Dalton, GA HUD Metro FMR Area",13313,899,1121,1461
+"Wilcox County, GA",13315,770,973,1235
+"Wilkes County, GA",13317,770,973,1261
+"Wilkinson County, GA",13319,770,973,1353
+"Albany, GA MSA",13321,1006,1129,1534
+"Hawaii County, HI",15001,1603,2076,2622
+"Urban Honolulu, HI MSA",15003,2016,2642,3674
+"Kalawao County, HI HUD Metro FMR Area",15005,1899,2492,3227
+"Kauai County, HI",15007,1777,2332,2866
+"Kahului-Wailuku-Lahaina, HI HUD Metro FMR Area",15009,2000,2624,3398
+"Boise City, ID HUD Metro FMR Area",16001,1381,1655,2318
+"Adams County, ID",16003,773,973,1353
+"Pocatello, ID MSA",16005,894,1173,1631
+"Bear Lake County, ID",16007,773,973,1353
+"Benewah County, ID",16009,822,1079,1469
+"Bingham County, ID",16011,742,973,1353
+"Blaine County, ID",16013,1219,1600,2101
+"Boise City, ID HUD Metro FMR Area",16015,1381,1655,2318
+"Bonner County, ID",16017,958,1257,1748
+"Idaho Falls, ID HUD Metro FMR Area",16019,1095,1305,1815
+"Boundary County, ID",16021,742,973,1353
+"Butte County, ID HUD Metro FMR Area",16023,1094,1304,1814
+"Camas County, ID",16025,851,1071,1490
+"Boise City, ID HUD Metro FMR Area",16027,1381,1655,2318
+"Caribou County, ID",16029,763,973,1353
+"Cassia County, ID",16031,783,1028,1430
+"Clark County, ID",16033,773,973,1353
+"Clearwater County, ID",16035,821,1077,1498
+"Custer County, ID",16037,914,1079,1501
+"Elmore County, ID",16039,908,1192,1658
+"Logan, UT-ID MSA",16041,946,1241,1726
+"Fremont County, ID",16043,884,973,1353
+"Gem County, ID HUD Metro FMR Area",16045,908,1190,1601
+"Gooding County, ID",16047,851,1026,1427
+"Idaho County, ID",16049,799,1049,1459
+"Idaho Falls, ID HUD Metro FMR Area",16051,1095,1305,1815
+"Jerome County, ID HUD Metro FMR Area",16053,986,1186,1599
+"Coeur d'Alene, ID MSA",16055,1302,1547,2152
+"Latah County, ID",16057,863,1011,1406
+"Lemhi County, ID",16059,883,992,1380
+"Lewis County, ID",16061,742,973,1353
+"Lincoln County, ID",16063,888,973,1353
+"Madison County, ID",16065,1008,1105,1537
+"Minidoka County, ID",16067,889,1022,1421
+"Lewiston, ID-WA MSA",16069,931,1220,1697
+"Oneida County, ID",16071,871,1096,1524
+"Boise City, ID HUD Metro FMR Area",16073,1381,1655,2318
+"Payette County, ID",16075,816,1071,1490
+"Power County, ID",16077,773,973,1353
+"Shoshone County, ID",16079,860,1128,1352
+"Teton County, ID",16081,1143,1323,1769
+"Twin Falls County, ID HUD Metro FMR Area",16083,979,1284,1786
+"Valley County, ID",16085,1086,1190,1655
+"Washington County, ID",16087,859,1127,1471
+"Adams County, IL",17001,811,1064,1327
+"Cape Girardeau, MO-IL MSA",17003,807,992,1380
+"Bond County, IL HUD Metro FMR Area",17005,836,916,1154
+"Rockford, IL MSA",17007,895,1175,1555
+"Brown County, IL",17009,810,1063,1275
+"Bureau County, IL",17011,789,1035,1278
+"St. Louis, MO-IL HUD Metro FMR Area",17013,995,1218,1568
+"Carroll County, IL",17015,752,916,1211
+"Cass County, IL",17017,836,916,1263
+"Champaign-Urbana, IL HUD Metro FMR Area",17019,946,1122,1436
+"Christian County, IL",17021,742,974,1168
+"Clark County, IL",17023,769,1009,1245
+"Clay County, IL",17025,707,916,1167
+"St. Louis, MO-IL HUD Metro FMR Area",17027,995,1218,1568
+"Coles County, IL",17029,759,965,1261
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",17031,1581,1781,2294
+"Crawford County, IL",17033,764,916,1241
+"Cumberland County, IL",17035,717,916,1098
+"DeKalb County, IL HUD Metro FMR Area",17037,1046,1373,1825
+"De Witt County, IL",17039,790,1036,1242
+"Douglas County, IL",17041,836,916,1240
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",17043,1581,1781,2294
+"Edgar County, IL",17045,768,916,1226
+"Edwards County, IL",17047,698,916,1098
+"Effingham County, IL",17049,754,916,1208
+"Fayette County, IL",17051,750,916,1183
+"Ford County, IL HUD Metro FMR Area",17053,698,916,1274
+"Franklin County, IL",17055,698,916,1181
+"Fulton County, IL",17057,708,916,1274
+"Gallatin County, IL",17059,698,916,1098
+"Greene County, IL",17061,756,992,1189
+"Grundy County, IL HUD Metro FMR Area",17063,1118,1459,1979
+"Hamilton County, IL",17065,727,916,1274
+"Hancock County, IL",17067,791,916,1111
+"Hardin County, IL",17069,698,916,1098
+"Henderson County, IL",17071,698,916,1274
+"Davenport-Moline-Rock Island, IA-IL MSA",17073,928,1143,1498
+"Iroquois County, IL",17075,698,916,1136
+"Jackson County, IL",17077,737,916,1208
+"Jasper County, IL",17079,719,933,1119
+"Jefferson County, IL",17081,782,1026,1248
+"St. Louis, MO-IL HUD Metro FMR Area",17083,995,1218,1568
+"Jo Daviess County, IL",17085,796,954,1271
+"Johnson County, IL",17087,735,916,1159
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",17089,1581,1781,2294
+"Kankakee, IL MSA",17091,1011,1326,1745
+"Kendall County, IL HUD Metro FMR Area",17093,1562,2050,2819
+"Knox County, IL",17095,698,916,1199
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",17097,1581,1781,2294
+"La Salle County, IL",17099,822,1079,1441
+"Lawrence County, IL",17101,721,946,1136
+"Lee County, IL",17103,810,916,1274
+"Livingston County, IL",17105,776,1018,1267
+"Logan County, IL",17107,782,988,1221
+"McDonough County, IL",17109,728,951,1231
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",17111,1581,1781,2294
+"Bloomington, IL MSA",17113,999,1302,1717
+"Decatur, IL MSA",17115,845,1063,1378
+"Macoupin County, IL HUD Metro FMR Area",17117,698,916,1145
+"St. Louis, MO-IL HUD Metro FMR Area",17119,995,1218,1568
+"Marion County, IL",17121,769,916,1190
+"Peoria, IL MSA",17123,818,1039,1346
+"Mason County, IL",17125,698,916,1274
+"Massac County, IL HUD Metro FMR Area",17127,789,969,1348
+"Springfield, IL MSA",17129,970,1203,1611
+"Davenport-Moline-Rock Island, IA-IL MSA",17131,928,1143,1498
+"St. Louis, MO-IL HUD Metro FMR Area",17133,995,1218,1568
+"Montgomery County, IL",17135,714,937,1123
+"Morgan County, IL",17137,698,916,1138
+"Moultrie County, IL",17139,698,916,1274
+"Ogle County, IL",17141,852,1118,1365
+"Peoria, IL MSA",17143,818,1039,1346
+"Perry County, IL",17145,698,916,1148
+"Champaign-Urbana, IL HUD Metro FMR Area",17147,946,1122,1436
+"Pike County, IL",17149,698,916,1114
+"Pope County, IL",17151,828,1087,1375
+"Pulaski County, IL",17153,836,916,1274
+"Putnam County, IL",17155,851,937,1212
+"Randolph County, IL",17157,698,916,1145
+"Richland County, IL",17159,729,916,1098
+"Davenport-Moline-Rock Island, IA-IL MSA",17161,928,1143,1498
+"St. Louis, MO-IL HUD Metro FMR Area",17163,995,1218,1568
+"Saline County, IL",17165,701,920,1207
+"Springfield, IL MSA",17167,970,1203,1611
+"Schuyler County, IL",17169,836,916,1098
+"Scott County, IL",17171,698,916,1098
+"Shelby County, IL",17173,789,951,1140
+"Peoria, IL MSA",17175,818,1039,1346
+"Stephenson County, IL",17177,698,916,1124
+"Peoria, IL MSA",17179,818,1039,1346
+"Union County, IL",17181,698,916,1129
+"Vermilion County, IL",17183,742,974,1179
+"Wabash County, IL",17185,698,916,1274
+"Warren County, IL",17187,698,916,1156
+"Washington County, IL",17189,836,916,1242
+"Wayne County, IL",17191,698,916,1098
+"White County, IL",17193,698,916,1209
+"Whiteside County, IL",17195,719,916,1208
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",17197,1581,1781,2294
+"Williamson County, IL",17199,790,1037,1369
+"Rockford, IL MSA",17201,895,1175,1555
+"Peoria, IL MSA",17203,818,1039,1346
+"Adams County, IN",18001,872,956,1227
+"Fort Wayne, IN HUD Metro FMR Area",18003,916,1113,1381
+"Columbus, IN MSA",18005,1257,1415,1697
+"Lafayette-West Lafayette, IN HUD Metro FMR Area",18007,1032,1242,1489
+"Blackford County, IN",18009,766,956,1268
+"Indianapolis-Carmel, IN HUD Metro FMR Area",18011,1267,1473,1907
+"Indianapolis-Carmel, IN HUD Metro FMR Area",18013,1267,1473,1907
+"Carroll County, IN HUD Metro FMR Area",18015,742,973,1219
+"Cass County, IN",18017,796,956,1278
+"Louisville, KY-IN HUD Metro FMR Area",18019,1047,1272,1625
+"Terre Haute, IN HUD Metro FMR Area",18021,864,1094,1312
+"Clinton County, IN",18023,804,1007,1328
+"Crawford County, IN",18025,852,956,1330
+"Daviess County, IN",18027,764,1003,1243
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",18029,1051,1353,1785
+"Decatur County, IN",18031,816,1071,1284
+"DeKalb County, IN",18033,732,960,1195
+"Muncie, IN MSA",18035,845,1043,1349
+"Dubois County, IN",18037,729,956,1328
+"Elkhart-Goshen, IN MSA",18039,992,1183,1553
+"Fayette County, IN",18041,754,956,1184
+"Louisville, KY-IN HUD Metro FMR Area",18043,1047,1272,1625
+"Fountain County, IN",18045,729,956,1178
+"Franklin County, IN HUD Metro FMR Area",18047,861,1117,1473
+"Fulton County, IN",18049,733,962,1153
+"Gibson County, IN",18051,771,1001,1262
+"Grant County, IN",18053,767,956,1257
+"Greene County, IN",18055,729,956,1206
+"Indianapolis-Carmel, IN HUD Metro FMR Area",18057,1267,1473,1907
+"Indianapolis-Carmel, IN HUD Metro FMR Area",18059,1267,1473,1907
+"Louisville, KY-IN HUD Metro FMR Area",18061,1047,1272,1625
+"Indianapolis-Carmel, IN HUD Metro FMR Area",18063,1267,1473,1907
+"Henry County, IN",18065,775,956,1146
+"Kokomo, IN MSA",18067,890,1123,1388
+"Huntington County, IN",18069,731,956,1239
+"Jackson County, IN",18071,807,1059,1328
+"Jasper County, IN HUD Metro FMR Area",18073,895,1174,1535
+"Jay County, IN",18075,729,956,1261
+"Jefferson County, IN",18077,818,971,1201
+"Jennings County, IN",18079,732,961,1337
+"Indianapolis-Carmel, IN HUD Metro FMR Area",18081,1267,1473,1907
+"Knox County, IN",18083,729,956,1212
+"Kosciusko County, IN",18085,881,1142,1385
+"LaGrange County, IN",18087,745,977,1171
+"Gary, IN HUD Metro FMR Area",18089,1082,1317,1612
+"Michigan City-La Porte, IN MSA",18091,953,1152,1454
+"Lawrence County, IN",18093,729,956,1146
+"Anderson, IN HUD Metro FMR Area",18095,919,1206,1594
+"Indianapolis-Carmel, IN HUD Metro FMR Area",18097,1267,1473,1907
+"Marshall County, IN",18099,824,1008,1225
+"Martin County, IN",18101,729,956,1146
+"Miami County, IN",18103,773,956,1146
+"Bloomington, IN HUD Metro FMR Area",18105,1072,1210,1572
+"Montgomery County, IN",18107,807,966,1281
+"Indianapolis-Carmel, IN HUD Metro FMR Area",18109,1267,1473,1907
+"Gary, IN HUD Metro FMR Area",18111,1082,1317,1612
+"Noble County, IN",18113,737,967,1159
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",18115,1051,1353,1785
+"Orange County, IN",18117,729,956,1330
+"Owen County, IN HUD Metro FMR Area",18119,798,956,1155
+"Parke County, IN",18121,735,964,1272
+"Perry County, IN",18123,729,956,1200
+"Pike County, IN",18125,729,956,1330
+"Gary, IN HUD Metro FMR Area",18127,1082,1317,1612
+"Evansville, IN MSA",18129,860,1113,1370
+"Pulaski County, IN",18131,872,956,1330
+"Putnam County, IN",18133,843,1030,1390
+"Randolph County, IN",18135,841,956,1261
+"Ripley County, IN",18137,752,987,1302
+"Rush County, IN",18139,762,956,1146
+"South Bend-Mishawaka, IN HUD Metro FMR Area",18141,1105,1292,1567
+"Scott County, IN",18143,769,1009,1348
+"Indianapolis-Carmel, IN HUD Metro FMR Area",18145,1267,1473,1907
+"Spencer County, IN",18147,729,956,1330
+"Starke County, IN",18149,729,956,1151
+"Steuben County, IN",18151,790,1036,1337
+"Sullivan County, IN HUD Metro FMR Area",18153,783,1028,1251
+"Switzerland County, IN",18155,729,956,1280
+"Lafayette-West Lafayette, IN HUD Metro FMR Area",18157,1032,1242,1489
+"Tipton County, IN HUD Metro FMR Area",18159,845,1109,1330
+"Union County, IN",18161,729,956,1220
+"Evansville, IN MSA",18163,860,1113,1370
+"Terre Haute, IN HUD Metro FMR Area",18165,864,1094,1312
+"Terre Haute, IN HUD Metro FMR Area",18167,864,1094,1312
+"Wabash County, IN",18169,729,956,1146
+"Warren County, IN HUD Metro FMR Area",18171,845,956,1330
+"Evansville, IN MSA",18173,860,1113,1370
+"Washington County, IN HUD Metro FMR Area",18175,753,988,1185
+"Wayne County, IN",18177,729,956,1191
+"Wells County, IN HUD Metro FMR Area",18179,755,991,1203
+"White County, IN",18181,785,1030,1235
+"Fort Wayne, IN HUD Metro FMR Area",18183,916,1113,1381
+"Adair County, IA",19001,706,926,1201
+"Adams County, IA",19003,711,933,1217
+"Allamakee County, IA",19005,754,919,1278
+"Appanoose County, IA",19007,700,919,1102
+"Audubon County, IA",19009,838,919,1160
+"Benton County, IA HUD Metro FMR Area",19011,729,956,1209
+"Waterloo-Cedar Falls, IA HUD Metro FMR Area",19013,801,1051,1357
+"Boone County, IA HUD Metro FMR Area",19015,788,1026,1427
+"Bremer County, IA HUD Metro FMR Area",19017,745,978,1290
+"Buchanan County, IA",19019,718,942,1281
+"Buena Vista County, IA",19021,770,1010,1240
+"Butler County, IA",19023,700,919,1102
+"Calhoun County, IA",19025,736,919,1162
+"Carroll County, IA",19027,788,919,1162
+"Cass County, IA",19029,710,919,1278
+"Cedar County, IA",19031,736,966,1259
+"Cerro Gordo County, IA",19033,750,949,1226
+"Cherokee County, IA",19035,811,919,1278
+"Chickasaw County, IA",19037,778,919,1278
+"Clarke County, IA",19039,803,919,1222
+"Clay County, IA",19041,700,919,1198
+"Clayton County, IA",19043,700,919,1127
+"Clinton County, IA",19045,729,956,1184
+"Crawford County, IA",19047,788,919,1212
+"Des Moines-West Des Moines, IA HUD Metro FMR Area",19049,1109,1318,1794
+"Davis County, IA",19051,795,1043,1251
+"Decatur County, IA",19053,700,919,1102
+"Delaware County, IA",19055,838,919,1102
+"Des Moines County, IA",19057,810,1063,1369
+"Dickinson County, IA",19059,831,1091,1314
+"Dubuque, IA MSA",19061,841,1077,1450
+"Emmet County, IA",19063,771,919,1222
+"Fayette County, IA",19065,723,919,1210
+"Floyd County, IA",19067,700,919,1192
+"Franklin County, IA",19069,700,919,1168
+"Fremont County, IA",19071,708,919,1278
+"Greene County, IA",19073,700,919,1278
+"Waterloo-Cedar Falls, IA HUD Metro FMR Area",19075,801,1051,1357
+"Des Moines-West Des Moines, IA HUD Metro FMR Area",19077,1109,1318,1794
+"Hamilton County, IA",19079,791,994,1192
+"Hancock County, IA",19081,745,919,1170
+"Hardin County, IA",19083,700,919,1208
+"Omaha-Council Bluffs, NE-IA HUD Metro FMR Area",19085,1148,1368,1813
+"Henry County, IA",19087,716,939,1242
+"Howard County, IA",19089,838,919,1278
+"Humboldt County, IA",19091,798,919,1278
+"Ida County, IA",19093,764,919,1102
+"Iowa County, IA",19095,709,919,1278
+"Jackson County, IA",19097,700,919,1178
+"Jasper County, IA HUD Metro FMR Area",19099,789,1008,1348
+"Jefferson County, IA",19101,826,1084,1300
+"Iowa City, IA HUD Metro FMR Area",19103,961,1141,1587
+"Jones County, IA HUD Metro FMR Area",19105,711,919,1212
+"Keokuk County, IA",19107,764,919,1178
+"Kossuth County, IA",19109,700,919,1102
+"Lee County, IA",19111,733,962,1270
+"Cedar Rapids, IA HUD Metro FMR Area",19113,816,1071,1490
+"Louisa County, IA",19115,700,919,1124
+"Lucas County, IA",19117,743,975,1250
+"Lyon County, IA",19119,700,919,1102
+"Des Moines-West Des Moines, IA HUD Metro FMR Area",19121,1109,1318,1794
+"Mahaska County, IA",19123,722,947,1135
+"Marion County, IA",19125,808,1016,1218
+"Marshall County, IA",19127,731,959,1265
+"Omaha-Council Bluffs, NE-IA HUD Metro FMR Area",19129,1148,1368,1813
+"Mitchell County, IA",19131,774,919,1156
+"Monona County, IA",19133,700,919,1145
+"Monroe County, IA",19135,700,919,1222
+"Montgomery County, IA",19137,838,919,1265
+"Muscatine County, IA",19139,858,1071,1374
+"O'Brien County, IA",19141,700,919,1111
+"Osceola County, IA",19143,700,919,1212
+"Page County, IA",19145,700,919,1147
+"Palo Alto County, IA",19147,700,919,1222
+"Plymouth County, IA",19149,772,980,1287
+"Pocahontas County, IA",19151,700,919,1125
+"Des Moines-West Des Moines, IA HUD Metro FMR Area",19153,1109,1318,1794
+"Omaha-Council Bluffs, NE-IA HUD Metro FMR Area",19155,1148,1368,1813
+"Poweshiek County, IA",19157,853,988,1303
+"Ringgold County, IA",19159,748,919,1125
+"Sac County, IA",19161,791,919,1226
+"Davenport-Moline-Rock Island, IA-IL MSA",19163,928,1143,1498
+"Shelby County, IA",19165,838,919,1278
+"Sioux County, IA",19167,740,971,1246
+"Ames, IA HUD Metro FMR Area",19169,1026,1153,1601
+"Tama County, IA",19171,717,941,1174
+"Taylor County, IA",19173,700,919,1116
+"Union County, IA",19175,700,919,1212
+"Van Buren County, IA",19177,713,919,1102
+"Wapello County, IA",19179,814,1068,1354
+"Des Moines-West Des Moines, IA HUD Metro FMR Area",19181,1109,1318,1794
+"Washington County, IA HUD Metro FMR Area",19183,733,962,1191
+"Wayne County, IA",19185,734,919,1193
+"Webster County, IA",19187,700,919,1182
+"Winnebago County, IA",19189,731,919,1222
+"Winneshiek County, IA",19191,700,919,1212
+"Sioux City, IA-NE-SD MSA",19193,925,1154,1386
+"Worth County, IA",19195,700,919,1278
+"Wright County, IA",19197,700,919,1102
+"Allen County, KS",20001,727,877,1216
+"Anderson County, KS",20003,668,877,1146
+"Atchison County, KS",20005,668,877,1220
+"Barber County, KS",20007,730,877,1103
+"Barton County, KS",20009,693,877,1220
+"Bourbon County, KS",20011,713,936,1122
+"Brown County, KS",20013,668,877,1143
+"Wichita, KS HUD Metro FMR Area",20015,849,1099,1444
+"Chase County, KS",20017,712,877,1184
+"Chautauqua County, KS",20019,668,877,1108
+"Cherokee County, KS HUD Metro FMR Area",20021,668,877,1157
+"Cheyenne County, KS",20023,682,877,1052
+"Clark County, KS",20025,752,877,1075
+"Clay County, KS",20027,724,950,1253
+"Cloud County, KS",20029,676,877,1052
+"Coffey County, KS",20031,670,879,1064
+"Comanche County, KS",20033,668,877,1144
+"Cowley County, KS",20035,668,877,1139
+"Crawford County, KS",20037,687,901,1253
+"Decatur County, KS",20039,668,877,1220
+"Dickinson County, KS",20041,669,878,1153
+"St. Joseph, MO-KS MSA",20043,832,1077,1363
+"Lawrence, KS MSA",20045,1006,1182,1644
+"Edwards County, KS",20047,668,877,1134
+"Elk County, KS",20049,668,877,1132
+"Ellis County, KS",20051,717,941,1288
+"Ellsworth County, KS",20053,708,877,1052
+"Finney County, KS",20055,793,1041,1435
+"Ford County, KS",20057,739,969,1256
+"Franklin County, KS",20059,789,1020,1223
+"Geary County, KS HUD Metro FMR Area",20061,848,1048,1458
+"Gove County, KS",20063,800,877,1157
+"Graham County, KS",20065,668,877,1115
+"Grant County, KS",20067,668,877,1220
+"Gray County, KS",20069,800,877,1090
+"Greeley County, KS",20071,668,877,1052
+"Greenwood County, KS",20073,668,877,1052
+"Hamilton County, KS",20075,822,1079,1294
+"Harper County, KS",20077,740,877,1093
+"Wichita, KS HUD Metro FMR Area",20079,849,1099,1444
+"Haskell County, KS",20081,668,877,1089
+"Hodgeman County, KS",20083,714,877,1220
+"Topeka, KS MSA",20085,820,1057,1392
+"Topeka, KS MSA",20087,820,1057,1392
+"Jewell County, KS",20089,712,877,1132
+"Kansas City, MO-KS HUD Metro FMR Area",20091,1197,1358,1769
+"Kearny County, KS",20093,1087,1426,1710
+"Kingman County, KS",20095,668,877,1220
+"Kiowa County, KS",20097,668,877,1088
+"Labette County, KS",20099,668,877,1052
+"Lane County, KS",20101,754,989,1277
+"Kansas City, MO-KS HUD Metro FMR Area",20103,1197,1358,1769
+"Lincoln County, KS",20105,668,877,1073
+"Kansas City, MO-KS HUD Metro FMR Area",20107,1197,1358,1769
+"Logan County, KS",20109,832,912,1093
+"Lyon County, KS",20111,668,877,1142
+"McPherson County, KS",20113,701,920,1176
+"Marion County, KS",20115,688,877,1157
+"Marshall County, KS",20117,668,877,1164
+"Meade County, KS",20119,668,877,1078
+"Kansas City, MO-KS HUD Metro FMR Area",20121,1197,1358,1769
+"Mitchell County, KS",20123,668,877,1220
+"Montgomery County, KS",20125,668,877,1101
+"Morris County, KS",20127,679,877,1052
+"Morton County, KS",20129,668,877,1052
+"Nemaha County, KS",20131,722,877,1132
+"Neosho County, KS",20133,691,877,1125
+"Ness County, KS",20135,668,877,1163
+"Norton County, KS",20137,678,877,1132
+"Topeka, KS MSA",20139,820,1057,1392
+"Osborne County, KS",20141,668,877,1108
+"Ottawa County, KS",20143,711,933,1143
+"Pawnee County, KS",20145,668,877,1183
+"Phillips County, KS",20147,695,877,1185
+"Manhattan, KS HUD Metro FMR Area",20149,875,1068,1485
+"Pratt County, KS",20151,766,877,1157
+"Rawlins County, KS",20153,726,952,1141
+"Reno County, KS",20155,729,957,1168
+"Republic County, KS",20157,800,877,1200
+"Rice County, KS",20159,668,877,1178
+"Manhattan, KS HUD Metro FMR Area",20161,875,1068,1485
+"Rooks County, KS",20163,668,877,1052
+"Rush County, KS",20165,710,877,1220
+"Russell County, KS",20167,765,877,1062
+"Saline County, KS",20169,770,1009,1222
+"Scott County, KS",20171,668,877,1132
+"Wichita, KS HUD Metro FMR Area",20173,849,1099,1444
+"Seward County, KS",20175,771,1000,1344
+"Topeka, KS MSA",20177,820,1057,1392
+"Sheridan County, KS",20179,699,877,1052
+"Sherman County, KS",20181,710,932,1117
+"Smith County, KS",20183,762,877,1134
+"Stafford County, KS",20185,682,877,1167
+"Stanton County, KS",20187,668,877,1132
+"Stevens County, KS",20189,688,903,1100
+"Sumner County, KS HUD Metro FMR Area",20191,812,1065,1277
+"Thomas County, KS",20193,688,877,1116
+"Trego County, KS",20195,782,877,1052
+"Topeka, KS MSA",20197,820,1057,1392
+"Wallace County, KS",20199,758,877,1220
+"Washington County, KS",20201,701,877,1157
+"Wichita County, KS",20203,800,877,1220
+"Wilson County, KS",20205,668,877,1103
+"Woodson County, KS",20207,777,877,1194
+"Kansas City, MO-KS HUD Metro FMR Area",20209,1197,1358,1769
+"Adair County, KY",21001,683,866,1204
+"Allen County, KY HUD Metro FMR Area",21003,759,996,1224
+"Anderson County, KY",21005,951,1042,1323
+"Ballard County, KY HUD Metro FMR Area",21007,817,1072,1285
+"Barren County, KY",21009,662,868,1102
+"Bath County, KY",21011,668,866,1124
+"Bell County, KY",21013,790,866,1133
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",21015,1051,1353,1785
+"Lexington-Fayette, KY MSA",21017,1079,1272,1743
+"Huntington-Ashland, WV-KY-OH HUD Metro FMR Area",21019,853,973,1249
+"Boyle County, KY",21021,698,913,1200
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",21023,1051,1353,1785
+"Breathitt County, KY",21025,714,866,1204
+"Breckinridge County, KY",21027,690,866,1204
+"Louisville, KY-IN HUD Metro FMR Area",21029,1047,1272,1625
+"Butler County, KY HUD Metro FMR Area",21031,660,866,1204
+"Caldwell County, KY",21033,714,866,1038
+"Calloway County, KY",21035,837,1098,1317
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",21037,1051,1353,1785
+"Carlisle County, KY HUD Metro FMR Area",21039,717,915,1173
+"Carroll County, KY",21041,746,974,1168
+"Carter County, KY HUD Metro FMR Area",21043,703,866,1204
+"Casey County, KY",21045,790,866,1038
+"Clarksville, TN-KY HUD Metro FMR Area",21047,1094,1346,1871
+"Lexington-Fayette, KY MSA",21049,1079,1272,1743
+"Clay County, KY",21051,759,866,1176
+"Clinton County, KY",21053,660,866,1041
+"Crittenden County, KY",21055,660,866,1038
+"Cumberland County, KY",21057,701,866,1204
+"Owensboro, KY MSA",21059,846,1110,1466
+"Bowling Green, KY HUD Metro FMR Area",21061,985,1153,1384
+"Elliott County, KY",21063,683,866,1081
+"Estill County, KY",21065,790,866,1120
+"Lexington-Fayette, KY MSA",21067,1079,1272,1743
+"Fleming County, KY",21069,703,866,1142
+"Floyd County, KY",21071,689,904,1109
+"Franklin County, KY",21073,859,1083,1410
+"Fulton County, KY",21075,660,866,1204
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",21077,1051,1353,1785
+"Garrard County, KY",21079,821,900,1156
+"Grant County, KY HUD Metro FMR Area",21081,899,1155,1385
+"Graves County, KY",21083,660,866,1204
+"Grayson County, KY",21085,712,866,1200
+"Green County, KY",21087,790,866,1142
+"Huntington-Ashland, WV-KY-OH HUD Metro FMR Area",21089,853,973,1249
+"Hancock County, KY",21091,774,1016,1345
+"Elizabethtown, KY HUD Metro FMR Area",21093,846,1056,1469
+"Harlan County, KY",21095,699,866,1142
+"Harrison County, KY",21097,790,866,1204
+"Hart County, KY",21099,747,866,1077
+"Henderson County, KY",21101,764,949,1220
+"Louisville, KY-IN HUD Metro FMR Area",21103,1047,1272,1625
+"Hickman County, KY",21105,660,866,1142
+"Hopkins County, KY",21107,686,900,1163
+"Jackson County, KY",21109,660,866,1204
+"Louisville, KY-IN HUD Metro FMR Area",21111,1047,1272,1625
+"Lexington-Fayette, KY MSA",21113,1079,1272,1743
+"Johnson County, KY",21115,696,866,1154
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",21117,1051,1353,1785
+"Knott County, KY",21119,683,866,1038
+"Knox County, KY",21121,745,866,1038
+"Elizabethtown, KY HUD Metro FMR Area",21123,846,1056,1469
+"Laurel County, KY",21125,676,881,1068
+"Lawrence County, KY HUD Metro FMR Area",21127,720,926,1110
+"Lee County, KY",21129,740,939,1126
+"Leslie County, KY",21131,790,866,1204
+"Letcher County, KY",21133,759,866,1166
+"Lewis County, KY",21135,660,866,1136
+"Lincoln County, KY",21137,753,866,1038
+"Livingston County, KY HUD Metro FMR Area",21139,960,1158,1388
+"Logan County, KY",21141,660,866,1178
+"Lyon County, KY",21143,660,866,1204
+"McCracken County, KY HUD Metro FMR Area",21145,851,1058,1269
+"McCreary County, KY",21147,790,866,1069
+"Owensboro, KY MSA",21149,846,1110,1466
+"Madison County, KY",21151,785,904,1257
+"Magoffin County, KY",21153,790,866,1038
+"Marion County, KY",21155,660,866,1093
+"Marshall County, KY",21157,772,884,1191
+"Martin County, KY",21159,683,866,1081
+"Mason County, KY",21161,764,913,1111
+"Meade County, KY HUD Metro FMR Area",21163,819,1075,1463
+"Menifee County, KY",21165,683,866,1110
+"Mercer County, KY",21167,660,866,1204
+"Metcalfe County, KY",21169,755,866,1081
+"Monroe County, KY",21171,660,866,1204
+"Montgomery County, KY",21173,690,905,1194
+"Morgan County, KY",21175,660,866,1204
+"Muhlenberg County, KY",21177,660,866,1038
+"Nelson County, KY HUD Metro FMR Area",21179,781,1016,1360
+"Nicholas County, KY",21181,696,866,1204
+"Ohio County, KY",21183,660,866,1043
+"Louisville, KY-IN HUD Metro FMR Area",21185,1047,1272,1625
+"Owen County, KY",21187,758,995,1329
+"Owsley County, KY",21189,683,866,1115
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",21191,1051,1353,1785
+"Perry County, KY",21193,731,959,1150
+"Pike County, KY",21195,745,977,1171
+"Powell County, KY",21197,660,866,1204
+"Pulaski County, KY",21199,706,926,1110
+"Robertson County, KY",21201,660,866,1081
+"Rockcastle County, KY",21203,741,866,1126
+"Rowan County, KY",21205,735,911,1156
+"Russell County, KY",21207,660,866,1038
+"Lexington-Fayette, KY MSA",21209,1079,1272,1743
+"Shelby County, KY HUD Metro FMR Area",21211,1027,1143,1417
+"Simpson County, KY",21213,872,1055,1405
+"Louisville, KY-IN HUD Metro FMR Area",21215,1047,1272,1625
+"Taylor County, KY",21217,790,866,1204
+"Todd County, KY",21219,700,918,1151
+"Clarksville, TN-KY HUD Metro FMR Area",21221,1094,1346,1871
+"Trimble County, KY",21223,780,1001,1320
+"Union County, KY",21225,694,911,1092
+"Bowling Green, KY HUD Metro FMR Area",21227,985,1153,1384
+"Washington County, KY",21229,708,929,1226
+"Wayne County, KY",21231,677,866,1204
+"Webster County, KY",21233,660,866,1115
+"Whitley County, KY",21235,660,866,1038
+"Wolfe County, KY",21237,683,866,1081
+"Lexington-Fayette, KY MSA",21239,1079,1272,1743
+"Acadia Parish, LA HUD Metro FMR Area",22001,671,880,1055
+"Allen Parish, LA",22003,754,834,1048
+"Baton Rouge, LA HUD Metro FMR Area",22005,1064,1204,1511
+"Assumption Parish, LA HUD Metro FMR Area",22007,806,967,1345
+"Avoyelles Parish, LA",22009,653,857,1087
+"Beauregard Parish, LA",22011,713,935,1155
+"Bienville Parish, LA",22013,707,834,1160
+"Shreveport-Bossier City, LA MSA",22015,982,1111,1458
+"Shreveport-Bossier City, LA MSA",22017,982,1111,1458
+"Lake Charles, LA HUD Metro FMR Area",22019,928,1217,1459
+"Caldwell Parish, LA",22021,647,834,1072
+"Lake Charles, LA HUD Metro FMR Area",22023,928,1217,1459
+"Catahoula Parish, LA",22025,647,834,1139
+"Claiborne Parish, LA",22027,706,834,1000
+"Concordia Parish, LA",22029,647,834,1139
+"Shreveport-Bossier City, LA MSA",22031,982,1111,1458
+"Baton Rouge, LA HUD Metro FMR Area",22033,1064,1204,1511
+"East Carroll Parish, LA",22035,647,834,1139
+"Baton Rouge, LA HUD Metro FMR Area",22037,1064,1204,1511
+"Evangeline Parish, LA",22039,667,834,1085
+"Franklin Parish, LA",22041,698,834,1067
+"Alexandria, LA MSA",22043,780,994,1342
+"Iberia Parish, LA",22045,764,905,1193
+"Iberville Parish, LA HUD Metro FMR Area",22047,790,866,1204
+"Jackson Parish, LA",22049,761,834,1160
+"New Orleans-Metairie, LA HUD Metro FMR Area",22051,1113,1331,1701
+"Jefferson Davis Parish, LA HUD Metro FMR Area",22053,664,871,1201
+"Lafayette, LA HUD Metro FMR Area",22055,898,1019,1301
+"Houma-Bayou Cane-Thibodaux, LA MSA",22057,904,1102,1330
+"La Salle Parish, LA",22059,660,851,1073
+"Lincoln Parish, LA",22061,695,881,1156
+"Baton Rouge, LA HUD Metro FMR Area",22063,1064,1204,1511
+"Madison Parish, LA",22065,638,834,1100
+"Morehouse Parish, LA HUD Metro FMR Area",22067,636,834,1143
+"Natchitoches Parish, LA",22069,705,925,1146
+"New Orleans-Metairie, LA HUD Metro FMR Area",22071,1113,1331,1701
+"Monroe, LA HUD Metro FMR Area",22073,793,1026,1319
+"New Orleans-Metairie, LA HUD Metro FMR Area",22075,1113,1331,1701
+"Baton Rouge, LA HUD Metro FMR Area",22077,1064,1204,1511
+"Alexandria, LA MSA",22079,780,994,1342
+"Red River Parish, LA",22081,647,834,1073
+"Richland Parish, LA HUD Metro FMR Area",22083,759,944,1132
+"Sabine Parish, LA",22085,686,884,1065
+"New Orleans-Metairie, LA HUD Metro FMR Area",22087,1113,1331,1701
+"New Orleans-Metairie, LA HUD Metro FMR Area",22089,1113,1331,1701
+"Baton Rouge, LA HUD Metro FMR Area",22091,1064,1204,1511
+"St. James Parish, LA HUD Metro FMR Area",22093,702,921,1281
+"New Orleans-Metairie, LA HUD Metro FMR Area",22095,1113,1331,1701
+"St. Landry Parish, LA",22097,636,834,1040
+"Lafayette, LA HUD Metro FMR Area",22099,898,1019,1301
+"St. Mary Parish, LA",22101,722,947,1244
+"Slidell-Mandeville-Covington, LA MSA",22103,1130,1331,1724
+"Hammond, LA MSA",22105,848,1099,1372
+"Tensas Parish, LA",22107,761,834,1160
+"Houma-Bayou Cane-Thibodaux, LA MSA",22109,904,1102,1330
+"Monroe, LA HUD Metro FMR Area",22111,793,1026,1319
+"Vermilion Parish, LA HUD Metro FMR Area",22113,761,834,1100
+"Vernon Parish, LA",22115,793,1041,1336
+"Washington Parish, LA",22117,761,834,1160
+"Webster Parish, LA",22119,651,854,1130
+"Baton Rouge, LA HUD Metro FMR Area",22121,1064,1204,1511
+"West Carroll Parish, LA",22123,636,834,1088
+"Baton Rouge, LA HUD Metro FMR Area",22125,1064,1204,1511
+"Winn Parish, LA",22127,761,834,1160
+"Lewiston-Auburn, ME MSA",23001,1218,1586,2050
+"Aroostook County, ME",23003,949,1224,1672
+"Cumberland County, ME (part) HUD Metro FMR Area",23005,1397,1833,2380
+"Portland, ME HUD Metro FMR Area",23005,1658,2130,2591
+"Franklin County, ME",23007,1008,1322,1750
+"Hancock County, ME",23009,1234,1501,2047
+"Kennebec County, ME",23011,1090,1416,1819
+"Knox County, ME",23013,1270,1526,1928
+"Lincoln County, ME",23015,1280,1403,1936
+"Oxford County, ME",23017,989,1295,1801
+"Penobscot County, ME (part) HUD Metro FMR Area",23019,1061,1392,1799
+"Bangor, ME HUD Metro FMR Area",23019,1313,1659,2133
+"Piscataquis County, ME",23021,1081,1419,1701
+"Sagadahoc County, ME HUD Metro FMR Area",23023,1264,1577,2193
+"Somerset County, ME",23025,1083,1266,1689
+"Waldo County, ME",23027,1163,1438,1865
+"Washington County, ME",23029,954,1252,1739
+"York County, ME (part) HUD Metro FMR Area",23031,1412,1716,2298
+"York-Kittery-South Berwick, ME HUD Metro FMR Area",23031,1678,2202,2640
+"Portland, ME HUD Metro FMR Area",23031,1658,2130,2591
+"Allegany County, MD",24001,823,973,1333
+"Baltimore-Columbia-Towson, MD MSA",24003,1511,1857,2358
+"Baltimore-Columbia-Towson, MD MSA",24005,1511,1857,2358
+"Calvert County, MD HUD Metro FMR Area",24009,1851,2083,2639
+"Caroline County, MD",24011,1001,1314,1642
+"Baltimore-Columbia-Towson, MD MSA",24013,1511,1857,2358
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",24015,1520,1810,2170
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",24017,2015,2246,2835
+"Dorchester County, MD",24019,952,1144,1591
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",24021,2015,2246,2835
+"Garrett County, MD",24023,864,973,1353
+"Baltimore-Columbia-Towson, MD MSA",24025,1511,1857,2358
+"Baltimore-Columbia-Towson, MD MSA",24027,1511,1857,2358
+"Kent County, MD",24029,1137,1246,1635
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",24031,2015,2246,2835
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",24033,2015,2246,2835
+"Baltimore-Columbia-Towson, MD MSA",24035,1511,1857,2358
+"St. Mary's County, MD HUD Metro FMR Area",24037,1672,1833,2264
+"Somerset County, MD HUD Metro FMR Area",24039,907,1167,1586
+"Talbot County, MD",24041,1282,1409,1960
+"Hagerstown, MD HUD Metro FMR Area",24043,961,1261,1700
+"Salisbury, MD HUD Metro FMR Area",24045,1061,1378,1818
+"Worcester County, MD",24047,1035,1194,1661
+"Baltimore-Columbia-Towson, MD MSA",24510,1511,1857,2358
+"Barnstable Town, MA MSA",25001,1846,2422,2985
+"Pittsfield, MA HUD Metro FMR Area",25003,1269,1626,2109
+"Berkshire County, MA (part) HUD Metro FMR Area",25003,1302,1709,2206
+"New Bedford, MA HUD Metro FMR Area",25005,1230,1527,1831
+"Providence-Fall River, RI-MA HUD Metro FMR Area",25005,1402,1729,2087
+"Taunton-Mansfield-Norton, MA HUD Metro FMR Area",25005,1584,2078,2562
+"Easton-Raynham, MA HUD Metro FMR Area",25005,1943,2550,3057
+"Dukes County, MA",25007,1633,2143,2980
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",25009,2476,2941,3526
+"Lawrence, MA-NH HUD Metro FMR Area",25009,1730,2270,2722
+"Franklin County, MA",25011,1422,1866,2237
+"Springfield, MA MSA",25013,1382,1734,2127
+"Amherst Town-Northampton, MA MSA",25015,1580,2004,2504
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",25017,2476,2941,3526
+"Lowell, MA HUD Metro FMR Area",25017,1792,2351,2819
+"Nantucket County, MA",25019,2425,3138,4143
+"Brockton, MA HUD Metro FMR Area",25021,1761,2311,2889
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",25021,2476,2941,3526
+"Brockton, MA HUD Metro FMR Area",25023,1761,2311,2889
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",25023,2476,2941,3526
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",25025,2476,2941,3526
+"Fitchburg-Leominster, MA HUD Metro FMR Area",25027,1410,1749,2247
+"Western Worcester County, MA HUD Metro FMR Area",25027,1200,1532,2131
+"Worcester, MA HUD Metro FMR Area",25027,1599,2056,2548
+"Eastern Worcester County, MA HUD Metro FMR Area",25027,1651,2166,3012
+"Alcona County, MI",26001,807,973,1333
+"Alger County, MI",26003,817,1072,1285
+"Allegan County, MI",26005,966,1267,1583
+"Alpena County, MI",26007,767,973,1212
+"Antrim County, MI",26009,897,1162,1393
+"Arenac County, MI",26011,742,973,1353
+"Baraga County, MI",26013,742,973,1167
+"Barry County, MI HUD Metro FMR Area",26015,1017,1334,1735
+"Bay City, MI MSA",26017,814,1030,1399
+"Benzie County, MI HUD Metro FMR Area",26019,937,1224,1586
+"Niles, MI MSA",26021,902,1184,1556
+"Branch County, MI",26023,840,973,1324
+"Battle Creek, MI MSA",26025,976,1176,1410
+"Cass County, MI HUD Metro FMR Area",26027,906,993,1272
+"Charlevoix County, MI",26029,800,1039,1445
+"Cheboygan County, MI",26031,803,1054,1264
+"Chippewa County, MI",26033,823,1066,1278
+"Clare County, MI",26035,751,986,1189
+"Lansing-East Lansing, MI MSA",26037,1012,1268,1627
+"Crawford County, MI",26039,875,1038,1245
+"Delta County, MI",26041,742,973,1288
+"Dickinson County, MI",26043,841,973,1182
+"Lansing-East Lansing, MI MSA",26045,1012,1268,1627
+"Emmet County, MI",26047,941,1235,1481
+"Flint, MI MSA",26049,856,1033,1272
+"Gladwin County, MI",26051,742,973,1353
+"Gogebic County, MI",26053,761,973,1353
+"Grand Traverse County, MI HUD Metro FMR Area",26055,1143,1357,1747
+"Gratiot County, MI",26057,742,973,1304
+"Hillsdale County, MI",26059,764,1002,1252
+"Houghton County, MI",26061,800,973,1353
+"Huron County, MI",26063,806,973,1197
+"Lansing-East Lansing, MI MSA",26065,1012,1268,1627
+"Ionia County, MI HUD Metro FMR Area",26067,921,1209,1481
+"Iosco County, MI",26069,824,973,1348
+"Iron County, MI",26071,814,1068,1281
+"Isabella County, MI",26073,880,1013,1321
+"Jackson, MI MSA",26075,946,1165,1534
+"Kalamazoo-Portage, MI MSA",26077,998,1162,1531
+"Kalkaska County, MI HUD Metro FMR Area",26079,766,973,1286
+"Grand Rapids-Wyoming, MI HUD Metro FMR Area",26081,1278,1531,1980
+"Keweenaw County, MI",26083,849,973,1242
+"Lake County, MI",26085,758,994,1367
+"Detroit-Warren-Livonia, MI HUD Metro FMR Area",26087,1122,1411,1724
+"Leelanau County, MI HUD Metro FMR Area",26089,1366,1497,1795
+"Lenawee County, MI",26091,889,1166,1491
+"Livingston County, MI HUD Metro FMR Area",26093,1264,1457,2026
+"Luce County, MI",26095,753,988,1185
+"Mackinac County, MI",26097,780,1023,1227
+"Detroit-Warren-Livonia, MI HUD Metro FMR Area",26099,1122,1411,1724
+"Manistee County, MI",26101,799,1048,1332
+"Marquette County, MI",26103,973,1137,1363
+"Mason County, MI",26105,816,1026,1366
+"Mecosta County, MI",26107,796,1010,1288
+"Menominee County, MI",26109,771,973,1353
+"Midland, MI MSA",26111,925,1193,1518
+"Missaukee County, MI",26113,787,973,1194
+"Monroe, MI MSA",26115,1011,1326,1605
+"Montcalm County, MI HUD Metro FMR Area",26117,1016,1203,1473
+"Montmorency County, MI",26119,888,973,1353
+"Muskegon-Norton Shores, MI MSA",26121,942,1236,1490
+"Newaygo County, MI",26123,744,976,1294
+"Detroit-Warren-Livonia, MI HUD Metro FMR Area",26125,1122,1411,1724
+"Oceana County, MI",26127,742,973,1200
+"Ogemaw County, MI",26129,843,989,1186
+"Ontonagon County, MI",26131,888,973,1242
+"Osceola County, MI",26133,749,983,1182
+"Oscoda County, MI",26135,742,973,1287
+"Otsego County, MI",26137,858,1100,1445
+"Holland-Grand Haven, MI HUD Metro FMR Area",26139,1333,1519,1930
+"Presque Isle County, MI",26141,742,973,1167
+"Roscommon County, MI",26143,742,973,1242
+"Saginaw, MI MSA",26145,851,1117,1440
+"Detroit-Warren-Livonia, MI HUD Metro FMR Area",26147,1122,1411,1724
+"St. Joseph County, MI",26149,777,1019,1380
+"Sanilac County, MI",26151,742,973,1253
+"Schoolcraft County, MI",26153,858,973,1338
+"Shiawassee County, MI",26155,812,1066,1428
+"Tuscola County, MI",26157,786,973,1288
+"Van Buren County, MI",26159,774,1016,1338
+"Ann Arbor, MI MSA",26161,1387,1656,1986
+"Detroit-Warren-Livonia, MI HUD Metro FMR Area",26163,1122,1411,1724
+"Wexford County, MI",26165,826,1084,1368
+"Aitkin County, MN",27001,742,973,1353
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27003,1405,1709,2262
+"Becker County, MN",27005,783,1027,1341
+"Beltrami County, MN",27007,876,1135,1361
+"St. Cloud, MN MSA",27009,919,1206,1604
+"Big Stone County, MN",27011,816,973,1178
+"Mankato, MN MSA",27013,977,1171,1629
+"Brown County, MN",27015,742,973,1177
+"Duluth, MN-WI MSA",27017,978,1232,1689
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27019,1405,1709,2262
+"Cass County, MN",27021,768,973,1300
+"Chippewa County, MN",27023,772,973,1353
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27025,1405,1709,2262
+"Fargo, ND-MN MSA",27027,917,1112,1547
+"Clearwater County, MN",27029,785,973,1179
+"Cook County, MN",27031,888,973,1288
+"Cottonwood County, MN",27033,766,973,1353
+"Crow Wing County, MN",27035,854,1120,1345
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27037,1405,1709,2262
+"Rochester, MN HUD Metro FMR Area",27039,1189,1407,1957
+"Douglas County, MN",27041,772,991,1378
+"Faribault County, MN",27043,790,973,1312
+"Fillmore County, MN HUD Metro FMR Area",27045,779,1022,1370
+"Freeborn County, MN",27047,742,974,1283
+"Goodhue County, MN",27049,901,1095,1523
+"Grant County, MN",27051,742,973,1353
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27053,1405,1709,2262
+"La Crosse-Onalaska, WI-MN HUD Metro FMR Area",27055,889,1166,1515
+"Hubbard County, MN",27057,768,1008,1395
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27059,1405,1709,2262
+"Itasca County, MN",27061,860,1074,1401
+"Jackson County, MN",27063,846,973,1283
+"Kanabec County, MN",27065,858,973,1353
+"Kandiyohi County, MN",27067,787,973,1353
+"Kittson County, MN",27069,745,973,1167
+"Koochiching County, MN",27071,742,973,1243
+"Lac qui Parle County, MN",27073,833,973,1353
+"Lake County, MN",27075,973,1277,1531
+"Lake of the Woods County, MN",27077,773,1014,1216
+"Le Sueur County, MN HUD Metro FMR Area",27079,822,1078,1499
+"Lincoln County, MN",27081,742,973,1283
+"Lyon County, MN",27083,834,973,1353
+"McLeod County, MN",27085,865,999,1198
+"Mahnomen County, MN",27087,742,973,1217
+"Marshall County, MN",27089,742,973,1182
+"Martin County, MN",27091,803,973,1283
+"Meeker County, MN",27093,854,997,1387
+"Mille Lacs County, MN HUD Metro FMR Area",27095,856,1123,1346
+"Morrison County, MN",27097,757,973,1353
+"Mower County, MN",27099,799,1049,1350
+"Murray County, MN",27101,852,973,1232
+"Mankato, MN MSA",27103,977,1171,1629
+"Nobles County, MN",27105,799,1049,1294
+"Norman County, MN",27107,742,973,1167
+"Rochester, MN HUD Metro FMR Area",27109,1189,1407,1957
+"Otter Tail County, MN",27111,749,983,1367
+"Pennington County, MN",27113,855,1122,1496
+"Pine County, MN",27115,839,1101,1320
+"Pipestone County, MN",27117,742,973,1203
+"Grand Forks, ND-MN MSA",27119,868,1089,1515
+"Pope County, MN",27121,803,1053,1263
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27123,1405,1709,2262
+"Red Lake County, MN",27125,742,973,1277
+"Redwood County, MN",27127,742,973,1321
+"Renville County, MN",27129,781,973,1353
+"Rice County, MN",27131,905,1187,1534
+"Rock County, MN HUD Metro FMR Area",27133,742,973,1353
+"Roseau County, MN",27135,867,973,1256
+"Duluth, MN-WI MSA",27137,978,1232,1689
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27139,1405,1709,2262
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27141,1405,1709,2262
+"Sibley County, MN",27143,742,973,1299
+"St. Cloud, MN MSA",27145,919,1206,1604
+"Steele County, MN",27147,870,1142,1549
+"Stevens County, MN",27149,755,991,1378
+"Swift County, MN",27151,768,973,1285
+"Todd County, MN",27153,742,973,1318
+"Traverse County, MN",27155,742,973,1353
+"Wabasha County, MN HUD Metro FMR Area",27157,913,1001,1334
+"Wadena County, MN",27159,783,1016,1218
+"Waseca County, MN",27161,742,973,1353
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27163,1405,1709,2262
+"Watonwan County, MN",27165,842,973,1283
+"Wilkin County, MN",27167,751,973,1283
+"Winona County, MN",27169,868,1066,1336
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",27171,1405,1709,2262
+"Yellow Medicine County, MN",27173,753,973,1169
+"Adams County, MS",28001,768,842,1111
+"Alcorn County, MS",28003,768,842,1158
+"Amite County, MS",28005,713,855,1047
+"Attala County, MS",28007,642,842,1115
+"Benton County, MS HUD Metro FMR Area",28009,768,842,1157
+"Bolivar County, MS",28011,642,842,1096
+"Calhoun County, MS",28013,642,842,1167
+"Carroll County, MS",28015,713,842,1049
+"Chickasaw County, MS",28017,642,842,1121
+"Choctaw County, MS",28019,642,842,1115
+"Claiborne County, MS",28021,713,842,1111
+"Clarke County, MS",28023,783,867,1044
+"Clay County, MS",28025,713,842,1159
+"Coahoma County, MS",28027,748,842,1177
+"Jackson, MS HUD Metro FMR Area",28029,1097,1288,1544
+"Covington County, MS",28031,713,842,1111
+"Memphis, TN-MS-AR HUD Metro FMR Area",28033,1154,1274,1683
+"Hattiesburg, MS MSA",28035,888,1047,1348
+"Franklin County, MS",28037,759,842,1115
+"George County, MS",28039,779,921,1104
+"Greene County, MS",28041,768,842,1012
+"Grenada County, MS",28043,694,911,1092
+"Gulfport-Biloxi, MS HUD Metro FMR Area",28045,923,1140,1471
+"Gulfport-Biloxi, MS HUD Metro FMR Area",28047,923,1140,1471
+"Jackson, MS HUD Metro FMR Area",28049,1097,1288,1544
+"Holmes County, MS HUD Metro FMR Area",28051,768,842,1111
+"Humphreys County, MS",28053,768,842,1111
+"Issaquena County, MS",28055,713,842,1049
+"Itawamba County, MS",28057,753,891,1068
+"Pascagoula, MS HUD Metro FMR Area",28059,951,1067,1448
+"Jasper County, MS",28061,713,842,1115
+"Jefferson County, MS",28063,713,842,1111
+"Jefferson Davis County, MS",28065,698,842,1020
+"Jones County, MS",28067,699,917,1099
+"Kemper County, MS",28069,713,842,1115
+"Lafayette County, MS",28071,1053,1243,1539
+"Hattiesburg, MS MSA",28073,888,1047,1348
+"Lauderdale County, MS",28075,812,906,1204
+"Lawrence County, MS",28077,657,863,1068
+"Leake County, MS",28079,808,955,1145
+"Lee County, MS",28081,852,994,1257
+"Leflore County, MS",28083,642,842,1055
+"Lincoln County, MS",28085,649,852,1126
+"Lowndes County, MS",28087,743,872,1195
+"Jackson, MS HUD Metro FMR Area",28089,1097,1288,1544
+"Marion County, MS",28091,655,860,1031
+"Marshall County, MS HUD Metro FMR Area",28093,846,1110,1331
+"Monroe County, MS",28095,768,842,1012
+"Montgomery County, MS",28097,768,842,1061
+"Neshoba County, MS",28099,768,842,1147
+"Newton County, MS",28101,642,842,1012
+"Noxubee County, MS",28103,713,842,1049
+"Oktibbeha County, MS",28105,873,957,1262
+"Panola County, MS",28107,743,878,1121
+"Pearl River County, MS",28109,857,949,1315
+"Hattiesburg, MS MSA",28111,888,1047,1348
+"Pike County, MS",28113,845,986,1182
+"Pontotoc County, MS",28115,850,932,1142
+"Prentiss County, MS",28117,642,842,1012
+"Quitman County, MS",28119,713,842,1171
+"Jackson, MS HUD Metro FMR Area",28121,1097,1288,1544
+"Scott County, MS HUD Metro FMR Area",28123,795,952,1141
+"Sharkey County, MS",28125,713,842,1115
+"Simpson County, MS HUD Metro FMR Area",28127,762,858,1193
+"Smith County, MS",28129,768,842,1012
+"Stone County, MS HUD Metro FMR Area",28131,739,969,1162
+"Sunflower County, MS",28133,642,842,1136
+"Tallahatchie County, MS",28135,768,842,1096
+"Tate County, MS HUD Metro FMR Area",28137,830,1089,1337
+"Tippah County, MS",28139,768,842,1092
+"Tishomingo County, MS",28141,759,842,1115
+"Tunica County, MS HUD Metro FMR Area",28143,1073,1186,1422
+"Union County, MS",28145,795,872,1082
+"Walthall County, MS",28147,781,923,1107
+"Warren County, MS",28149,805,953,1181
+"Washington County, MS",28151,768,842,1177
+"Wayne County, MS",28153,713,842,1098
+"Webster County, MS",28155,713,842,1012
+"Wilkinson County, MS",28157,713,842,1049
+"Winston County, MS",28159,768,842,1111
+"Yalobusha County, MS",28161,672,842,1115
+"Yazoo County, MS HUD Metro FMR Area",28163,750,984,1209
+"Adair County, MO",29001,708,888,1235
+"St. Joseph, MO-KS MSA",29003,832,1077,1363
+"Atchison County, MO",29005,677,888,1065
+"Audrain County, MO",29007,690,888,1141
+"Barry County, MO",29009,677,888,1235
+"Barton County, MO",29011,734,888,1235
+"Bates County, MO HUD Metro FMR Area",29013,706,927,1232
+"Benton County, MO",29015,708,929,1194
+"Cape Girardeau, MO-IL MSA",29017,807,992,1380
+"Columbia, MO HUD Metro FMR Area",29019,1011,1160,1573
+"St. Joseph, MO-KS MSA",29021,832,1077,1363
+"Butler County, MO",29023,682,895,1194
+"Kansas City, MO-KS HUD Metro FMR Area",29025,1197,1358,1769
+"Callaway County, MO HUD Metro FMR Area",29027,794,1042,1249
+"Camden County, MO",29029,716,939,1306
+"Cape Girardeau, MO-IL MSA",29031,807,992,1380
+"Carroll County, MO",29033,677,888,1157
+"Carter County, MO",29035,677,888,1065
+"Kansas City, MO-KS HUD Metro FMR Area",29037,1197,1358,1769
+"Cedar County, MO",29039,677,888,1214
+"Chariton County, MO",29041,677,888,1235
+"Springfield, MO HUD Metro FMR Area",29043,883,1095,1498
+"Clark County, MO",29045,677,888,1154
+"Kansas City, MO-KS HUD Metro FMR Area",29047,1197,1358,1769
+"Kansas City, MO-KS HUD Metro FMR Area",29049,1197,1358,1769
+"Jefferson City, MO HUD Metro FMR Area",29051,694,910,1266
+"Cooper County, MO HUD Metro FMR Area",29053,730,958,1182
+"Crawford County, MO",29055,729,888,1235
+"St. Louis, MO-IL HUD Metro FMR Area",29056,995,1218,1568
+"Dade County, MO",29057,729,888,1209
+"Dallas County, MO HUD Metro FMR Area",29059,732,888,1235
+"Daviess County, MO",29061,677,888,1138
+"St. Joseph, MO-KS MSA",29063,832,1077,1363
+"Dent County, MO",29065,680,892,1070
+"Douglas County, MO",29067,677,888,1065
+"Dunklin County, MO",29069,677,888,1228
+"St. Louis, MO-IL HUD Metro FMR Area",29071,995,1218,1568
+"Gasconade County, MO",29073,677,888,1192
+"Gentry County, MO",29075,691,888,1235
+"Springfield, MO HUD Metro FMR Area",29077,883,1095,1498
+"Grundy County, MO",29079,677,888,1171
+"Harrison County, MO",29081,677,888,1160
+"Henry County, MO",29083,677,888,1171
+"Hickory County, MO",29085,796,888,1235
+"Holt County, MO",29087,677,888,1111
+"Howard County, MO HUD Metro FMR Area",29089,796,1044,1252
+"Howell County, MO",29091,677,888,1224
+"Iron County, MO",29093,810,888,1084
+"Kansas City, MO-KS HUD Metro FMR Area",29095,1197,1358,1769
+"Joplin, MO HUD Metro FMR Area",29097,765,947,1237
+"St. Louis, MO-IL HUD Metro FMR Area",29099,995,1218,1568
+"Johnson County, MO",29101,815,965,1342
+"Knox County, MO",29103,677,888,1086
+"Laclede County, MO",29105,688,903,1182
+"Kansas City, MO-KS HUD Metro FMR Area",29107,1197,1358,1769
+"Lawrence County, MO",29109,677,888,1169
+"Lewis County, MO",29111,677,888,1171
+"St. Louis, MO-IL HUD Metro FMR Area",29113,995,1218,1568
+"Linn County, MO",29115,677,888,1065
+"Livingston County, MO",29117,677,888,1147
+"McDonald County, MO",29119,677,888,1235
+"Macon County, MO",29121,713,936,1212
+"Madison County, MO",29123,713,935,1133
+"Maries County, MO",29125,790,888,1202
+"Marion County, MO",29127,729,952,1256
+"Mercer County, MO",29129,677,888,1235
+"Miller County, MO",29131,819,898,1088
+"Mississippi County, MO",29133,677,888,1196
+"Moniteau County, MO HUD Metro FMR Area",29135,703,922,1260
+"Monroe County, MO",29137,677,888,1065
+"Montgomery County, MO",29139,677,888,1226
+"Morgan County, MO",29141,745,888,1171
+"New Madrid County, MO",29143,678,890,1067
+"Joplin, MO HUD Metro FMR Area",29145,765,947,1237
+"Nodaway County, MO",29147,718,906,1160
+"Oregon County, MO",29149,677,888,1235
+"Jefferson City, MO HUD Metro FMR Area",29151,694,910,1266
+"Ozark County, MO",29153,677,888,1065
+"Pemiscot County, MO",29155,713,888,1171
+"Perry County, MO",29157,868,952,1260
+"Pettis County, MO",29159,745,978,1268
+"Phelps County, MO",29161,742,933,1231
+"Pike County, MO",29163,700,918,1101
+"Kansas City, MO-KS HUD Metro FMR Area",29165,1197,1358,1769
+"Polk County, MO HUD Metro FMR Area",29167,733,888,1235
+"Pulaski County, MO",29169,809,1062,1477
+"Putnam County, MO",29171,698,888,1065
+"Ralls County, MO",29173,677,888,1128
+"Randolph County, MO",29175,693,888,1235
+"Kansas City, MO-KS HUD Metro FMR Area",29177,1197,1358,1769
+"Reynolds County, MO",29179,677,888,1065
+"Ripley County, MO",29181,731,888,1141
+"St. Louis, MO-IL HUD Metro FMR Area",29183,995,1218,1568
+"St. Clair County, MO",29185,677,888,1065
+"Ste. Genevieve County, MO",29186,767,922,1105
+"St. Francois County, MO",29187,689,904,1169
+"St. Louis, MO-IL HUD Metro FMR Area",29189,995,1218,1568
+"Saline County, MO",29195,677,888,1153
+"Schuyler County, MO",29197,677,888,1065
+"Scotland County, MO",29199,705,888,1235
+"Scott County, MO",29201,709,930,1145
+"Shannon County, MO",29203,677,888,1083
+"Shelby County, MO",29205,703,888,1189
+"Stoddard County, MO",29207,677,888,1183
+"Stone County, MO",29209,703,923,1284
+"Sullivan County, MO",29211,809,888,1110
+"Taney County, MO",29213,784,1029,1329
+"Texas County, MO",29215,694,888,1192
+"Vernon County, MO",29217,703,923,1160
+"St. Louis, MO-IL HUD Metro FMR Area",29219,995,1218,1568
+"Washington County, MO",29221,774,888,1065
+"Wayne County, MO",29223,810,888,1065
+"Springfield, MO HUD Metro FMR Area",29225,883,1095,1498
+"Worth County, MO",29227,677,888,1160
+"Wright County, MO",29229,677,888,1235
+"St. Louis, MO-IL HUD Metro FMR Area",29510,995,1218,1568
+"Beaverhead County, MT",30001,978,1072,1491
+"Big Horn County, MT",30003,992,1302,1657
+"Blaine County, MT",30005,902,1184,1420
+"Broadwater County, MT HUD Metro FMR Area",30007,1595,1748,2096
+"Billings, MT HUD Metro FMR Area",30009,1109,1417,1951
+"Carter County, MT",30011,1002,1244,1492
+"Great Falls, MT MSA",30013,979,1284,1786
+"Chouteau County, MT",30015,996,1307,1662
+"Custer County, MT",30017,1226,1608,2154
+"Daniels County, MT",30019,900,1023,1414
+"Dawson County, MT",30021,956,1254,1504
+"Deer Lodge County, MT",30023,985,1080,1502
+"Fallon County, MT",30025,1093,1401,1936
+"Fergus County, MT",30027,1102,1446,1991
+"Flathead County, MT",30029,1289,1691,2224
+"Bozeman, MT MSA",30031,1642,2154,2996
+"Garfield County, MT",30033,858,1099,1349
+"Glacier County, MT",30035,1033,1275,1529
+"Golden Valley County, MT",30037,1045,1339,1862
+"Granite County, MT",30039,822,1053,1464
+"Hill County, MT",30041,1069,1307,1724
+"Jefferson County, MT HUD Metro FMR Area",30043,1070,1404,1946
+"Judith Basin County, MT",30045,905,1160,1583
+"Lake County, MT",30047,1104,1444,1865
+"Lewis and Clark County, MT HUD Metro FMR Area",30049,1319,1647,2250
+"Liberty County, MT",30051,807,1034,1438
+"Lincoln County, MT",30053,1067,1170,1627
+"McCone County, MT",30055,1208,1548,2139
+"Madison County, MT",30057,1202,1540,2073
+"Meagher County, MT",30059,1087,1393,1925
+"Mineral County, MT HUD Metro FMR Area",30061,1083,1361,1632
+"Missoula, MT HUD Metro FMR Area",30063,1400,1655,2302
+"Musselshell County, MT",30065,1226,1344,1869
+"Park County, MT",30067,1385,1605,2232
+"Petroleum County, MT",30069,1208,1548,2139
+"Phillips County, MT",30071,888,973,1353
+"Pondera County, MT",30073,1144,1254,1619
+"Powder River County, MT",30075,800,1025,1426
+"Powell County, MT",30077,884,1133,1576
+"Prairie County, MT",30079,1208,1548,2139
+"Ravalli County, MT",30081,1145,1423,1979
+"Richland County, MT",30083,1197,1312,1573
+"Roosevelt County, MT",30085,915,1201,1440
+"Rosebud County, MT",30087,993,1186,1649
+"Sanders County, MT",30089,878,1115,1337
+"Sheridan County, MT",30091,923,1211,1684
+"Silver Bow County, MT",30093,1149,1414,1967
+"Stillwater County, MT HUD Metro FMR Area",30095,958,1257,1748
+"Sweet Grass County, MT",30097,918,1176,1551
+"Teton County, MT",30099,1241,1360,1891
+"Toole County, MT",30101,1052,1230,1702
+"Treasure County, MT",30103,1208,1548,2139
+"Valley County, MT",30105,915,1200,1566
+"Wheatland County, MT",30107,872,1117,1553
+"Wibaux County, MT",30109,1208,1548,2139
+"Billings, MT HUD Metro FMR Area",30111,1109,1417,1951
+"Adams County, NE",31001,811,961,1268
+"Antelope County, NE",31003,732,961,1268
+"Arthur County, NE",31005,732,961,1279
+"Banner County, NE",31007,732,961,1187
+"Blaine County, NE",31009,732,961,1187
+"Boone County, NE",31011,732,961,1268
+"Box Butte County, NE",31013,732,961,1182
+"Boyd County, NE",31015,732,961,1187
+"Brown County, NE",31017,732,961,1279
+"Buffalo County, NE",31019,863,1031,1360
+"Burt County, NE",31021,836,961,1231
+"Butler County, NE",31023,732,961,1268
+"Omaha-Council Bluffs, NE-IA HUD Metro FMR Area",31025,1148,1368,1813
+"Cedar County, NE",31027,795,961,1268
+"Chase County, NE",31029,738,961,1152
+"Cherry County, NE",31031,780,1024,1228
+"Cheyenne County, NE",31033,828,1086,1302
+"Clay County, NE",31035,759,961,1152
+"Colfax County, NE",31037,929,1094,1312
+"Cuming County, NE",31039,826,961,1268
+"Custer County, NE",31041,732,961,1337
+"Sioux City, IA-NE-SD MSA",31043,925,1154,1386
+"Dawes County, NE",31045,786,1031,1372
+"Dawson County, NE",31047,881,995,1267
+"Deuel County, NE",31049,732,961,1279
+"Dixon County, NE",31051,862,961,1337
+"Dodge County, NE",31053,861,1130,1355
+"Omaha-Council Bluffs, NE-IA HUD Metro FMR Area",31055,1148,1368,1813
+"Dundy County, NE",31057,746,961,1187
+"Fillmore County, NE",31059,877,961,1279
+"Franklin County, NE",31061,732,961,1187
+"Frontier County, NE",31063,732,961,1337
+"Furnas County, NE",31065,859,961,1305
+"Gage County, NE",31067,732,961,1152
+"Garden County, NE",31069,732,961,1152
+"Garfield County, NE",31071,732,961,1279
+"Gosper County, NE",31073,732,961,1240
+"Grant County, NE",31075,732,961,1187
+"Greeley County, NE",31077,732,961,1152
+"Hall County, NE HUD Metro FMR Area",31079,978,1215,1530
+"Hamilton County, NE",31081,824,961,1337
+"Harlan County, NE",31083,752,961,1268
+"Hayes County, NE",31085,732,961,1187
+"Hitchcock County, NE",31087,732,961,1152
+"Holt County, NE",31089,802,961,1152
+"Hooker County, NE",31091,874,961,1187
+"Howard County, NE HUD Metro FMR Area",31093,910,1049,1258
+"Jefferson County, NE",31095,759,961,1337
+"Johnson County, NE",31097,748,982,1177
+"Kearney County, NE",31099,757,993,1191
+"Keith County, NE",31101,760,961,1172
+"Keya Paha County, NE",31103,732,961,1187
+"Kimball County, NE",31105,732,961,1279
+"Knox County, NE",31107,732,961,1152
+"Lincoln, NE HUD Metro FMR Area",31109,926,1141,1587
+"Lincoln County, NE",31111,802,1052,1261
+"Logan County, NE",31113,732,961,1152
+"Loup County, NE",31115,732,961,1279
+"McPherson County, NE",31117,747,980,1210
+"Madison County, NE",31119,758,992,1285
+"Merrick County, NE HUD Metro FMR Area",31121,732,961,1323
+"Morrill County, NE",31123,789,961,1152
+"Nance County, NE",31125,732,961,1152
+"Nemaha County, NE",31127,732,961,1337
+"Nuckolls County, NE",31129,732,961,1174
+"Otoe County, NE",31131,783,1028,1371
+"Pawnee County, NE",31133,753,961,1152
+"Perkins County, NE",31135,849,961,1152
+"Phelps County, NE",31137,760,961,1311
+"Pierce County, NE",31139,810,961,1152
+"Platte County, NE",31141,809,1061,1399
+"Polk County, NE",31143,732,961,1152
+"Red Willow County, NE",31145,732,961,1152
+"Richardson County, NE",31147,732,961,1152
+"Rock County, NE",31149,732,961,1187
+"Saline County, NE",31151,732,961,1337
+"Omaha-Council Bluffs, NE-IA HUD Metro FMR Area",31153,1148,1368,1813
+"Saunders County, NE HUD Metro FMR Area",31155,956,1089,1432
+"Scotts Bluff County, NE",31157,758,987,1314
+"Seward County, NE HUD Metro FMR Area",31159,756,967,1345
+"Sheridan County, NE",31161,732,961,1152
+"Sherman County, NE",31163,732,961,1337
+"Sioux County, NE",31165,732,961,1187
+"Stanton County, NE",31167,849,1114,1336
+"Thayer County, NE",31169,732,961,1152
+"Thomas County, NE",31171,732,961,1187
+"Thurston County, NE",31173,799,961,1189
+"Valley County, NE",31175,732,961,1152
+"Omaha-Council Bluffs, NE-IA HUD Metro FMR Area",31177,1148,1368,1813
+"Wayne County, NE",31179,732,961,1278
+"Webster County, NE",31181,732,961,1279
+"Wheeler County, NE",31183,732,961,1187
+"York County, NE",31185,766,1005,1234
+"Churchill County, NV",32001,1083,1421,1976
+"Las Vegas-Henderson-North Las Vegas, NV MSA",32003,1478,1735,2413
+"Douglas County, NV",32005,1291,1605,2232
+"Elko County, NV",32007,1166,1530,1933
+"Esmeralda County, NV",32009,1122,1472,2062
+"Eureka County, NV",32011,1062,1393,1937
+"Humboldt County, NV",32013,1000,1312,1636
+"Lander County, NV",32015,942,1236,1570
+"Lincoln County, NV",32017,948,1095,1523
+"Lyon County, NV HUD Metro FMR Area",32019,1076,1272,1769
+"Mineral County, NV",32021,1062,1393,1937
+"Nye County, NV",32023,1000,1220,1690
+"Pershing County, NV",32027,878,985,1370
+"Reno, NV HUD Metro FMR Area",32029,1489,1870,2539
+"Reno, NV HUD Metro FMR Area",32031,1489,1870,2539
+"White Pine County, NV",32033,1002,1315,1716
+"Carson City, NV MSA",32510,1212,1546,2150
+"Belknap County, NH",33001,1425,1800,2219
+"Carroll County, NH",33003,1343,1709,2353
+"Cheshire County, NH",33005,1468,1926,2518
+"Coos County, NH",33007,994,1287,1702
+"Grafton County, NH",33009,1455,1909,2590
+"Nashua, NH HUD Metro FMR Area",33011,1673,2127,2822
+"Hillsborough County, NH (part) HUD Metro FMR Area",33011,1294,1698,2036
+"Manchester, NH HUD Metro FMR Area",33011,1552,2037,2442
+"Merrimack County, NH",33013,1504,1974,2604
+"Lawrence, MA-NH HUD Metro FMR Area",33015,1730,2270,2722
+"Western Rockingham County, NH HUD Metro FMR Area",33015,1692,2220,3069
+"Portsmouth-Rochester, NH HUD Metro FMR Area",33015,1677,2194,2693
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",33015,2476,2941,3526
+"Portsmouth-Rochester, NH HUD Metro FMR Area",33017,1677,2194,2693
+"Sullivan County, NH",33019,1332,1747,2418
+"Atlantic City-Hammonton, NJ HUD Metro FMR Area",34001,1537,1867,2586
+"Bergen-Passaic, NJ HUD Metro FMR Area",34003,2024,2324,2835
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",34005,1520,1810,2170
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",34007,1520,1810,2170
+"Cape May County, NJ HUD Metro FMR Area",34009,1366,1792,2396
+"Vineland, NJ MSA",34011,1375,1673,2303
+"Newark, NJ HUD Metro FMR Area",34013,1822,2205,2761
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",34015,1520,1810,2170
+"Jersey City, NJ HUD Metro FMR Area",34017,2458,2763,3367
+"Middlesex-Somerset-Hunterdon, NJ HUD Metro FMR Area",34019,1978,2486,2981
+"Trenton-Princeton, NJ MSA",34021,1545,1950,2338
+"Middlesex-Somerset-Hunterdon, NJ HUD Metro FMR Area",34023,1978,2486,2981
+"Monmouth-Ocean, NJ HUD Metro FMR Area",34025,1889,2328,3043
+"Newark, NJ HUD Metro FMR Area",34027,1822,2205,2761
+"Monmouth-Ocean, NJ HUD Metro FMR Area",34029,1889,2328,3043
+"Bergen-Passaic, NJ HUD Metro FMR Area",34031,2024,2324,2835
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",34033,1520,1810,2170
+"Middlesex-Somerset-Hunterdon, NJ HUD Metro FMR Area",34035,1978,2486,2981
+"Newark, NJ HUD Metro FMR Area",34037,1822,2205,2761
+"Newark, NJ HUD Metro FMR Area",34039,1822,2205,2761
+"Warren County, NJ HUD Metro FMR Area",34041,1527,1895,2404
+"Albuquerque, NM MSA",35001,1185,1464,2036
+"Catron County, NM",35003,853,1040,1424
+"Chaves County, NM",35005,887,1071,1421
+"Cibola County, NM",35006,823,993,1223
+"Colfax County, NM",35007,888,973,1302
+"Curry County, NM",35009,892,1098,1425
+"De Baca County, NM",35011,798,973,1167
+"Las Cruces, NM MSA",35013,951,1042,1449
+"Eddy County, NM",35015,1084,1188,1619
+"Grant County, NM",35017,801,1048,1304
+"Guadalupe County, NM",35019,791,973,1332
+"Harding County, NM",35021,853,1040,1424
+"Hidalgo County, NM",35023,798,973,1353
+"Lea County, NM",35025,1068,1324,1641
+"Lincoln County, NM",35027,820,999,1305
+"Los Alamos County, NM",35028,1326,1740,2086
+"Luna County, NM",35029,783,973,1280
+"McKinley County, NM",35031,894,1090,1307
+"Mora County, NM",35033,798,973,1332
+"Otero County, NM",35035,792,973,1353
+"Quay County, NM",35037,742,973,1227
+"Rio Arriba County, NM",35039,742,973,1199
+"Roosevelt County, NM",35041,772,975,1356
+"Albuquerque, NM MSA",35043,1185,1464,2036
+"Farmington, NM MSA",35045,885,1085,1509
+"San Miguel County, NM",35047,920,1008,1402
+"Santa Fe, NM MSA",35049,1390,1685,2122
+"Sierra County, NM",35051,765,1004,1396
+"Socorro County, NM",35053,888,973,1353
+"Taos County, NM",35055,1072,1279,1593
+"Albuquerque, NM MSA",35057,1185,1464,2036
+"Union County, NM",35059,770,973,1332
+"Albuquerque, NM MSA",35061,1185,1464,2036
+"Albany-Schenectady-Troy, NY MSA",36001,1417,1702,2041
+"Allegany County, NY",36003,754,974,1243
+"New York, NY HUD Metro FMR Area",36005,2655,2910,3644
+"Binghamton, NY MSA",36007,868,1103,1412
+"Cattaraugus County, NY",36009,783,1007,1232
+"Cayuga County, NY",36011,889,1124,1463
+"Chautauqua County, NY",36013,754,975,1287
+"Elmira, NY MSA",36015,978,1283,1606
+"Chenango County, NY",36017,855,973,1353
+"Clinton County, NY",36019,980,1246,1494
+"Columbia County, NY",36021,1263,1434,1730
+"Cortland County, NY",36023,960,1198,1510
+"Delaware County, NY",36025,884,1033,1437
+"Kiryas Joel-Poughkeepsie-Newburgh, NY MSA",36027,1549,1979,2511
+"Buffalo-Cheektowaga, NY MSA",36029,1139,1343,1640
+"Essex County, NY",36031,903,1185,1455
+"Franklin County, NY",36033,862,1044,1299
+"Fulton County, NY",36035,828,1087,1303
+"Genesee County, NY",36037,953,1168,1400
+"Greene County, NY",36039,1118,1373,1813
+"Hamilton County, NY",36041,1089,1429,1713
+"Utica-Rome, NY MSA",36043,926,1172,1405
+"Watertown-Fort Drum, NY MSA",36045,1071,1405,1907
+"New York, NY HUD Metro FMR Area",36047,2655,2910,3644
+"Lewis County, NY",36049,839,1008,1402
+"Rochester, NY MSA",36051,1256,1573,1895
+"Syracuse, NY MSA",36053,1123,1392,1691
+"Rochester, NY MSA",36055,1256,1573,1895
+"Montgomery County, NY",36057,899,1102,1381
+"Nassau-Suffolk, NY HUD Metro FMR Area",36059,2379,2747,3563
+"New York, NY HUD Metro FMR Area",36061,2655,2910,3644
+"Buffalo-Cheektowaga, NY MSA",36063,1139,1343,1640
+"Utica-Rome, NY MSA",36065,926,1172,1405
+"Syracuse, NY MSA",36067,1123,1392,1691
+"Rochester, NY MSA",36069,1256,1573,1895
+"Kiryas Joel-Poughkeepsie-Newburgh, NY MSA",36071,1549,1979,2511
+"Rochester, NY MSA",36073,1256,1573,1895
+"Syracuse, NY MSA",36075,1123,1392,1691
+"Otsego County, NY",36077,965,1228,1472
+"New York, NY HUD Metro FMR Area",36079,2655,2910,3644
+"New York, NY HUD Metro FMR Area",36081,2655,2910,3644
+"Albany-Schenectady-Troy, NY MSA",36083,1417,1702,2041
+"New York, NY HUD Metro FMR Area",36085,2655,2910,3644
+"New York, NY HUD Metro FMR Area",36087,2655,2910,3644
+"St. Lawrence County, NY",36089,816,1071,1284
+"Albany-Schenectady-Troy, NY MSA",36091,1417,1702,2041
+"Albany-Schenectady-Troy, NY MSA",36093,1417,1702,2041
+"Albany-Schenectady-Troy, NY MSA",36095,1417,1702,2041
+"Schuyler County, NY",36097,875,1148,1508
+"Seneca County, NY",36099,921,1169,1550
+"Steuben County, NY",36101,871,1081,1410
+"Nassau-Suffolk, NY HUD Metro FMR Area",36103,2379,2747,3563
+"Sullivan County, NY",36105,1070,1302,1811
+"Binghamton, NY MSA",36107,868,1103,1412
+"Ithaca, NY MSA",36109,1466,1753,2102
+"Kingston, NY MSA",36111,1386,1818,2245
+"Glens Falls, NY MSA",36113,1066,1348,1742
+"Glens Falls, NY MSA",36115,1066,1348,1742
+"Rochester, NY MSA",36117,1256,1573,1895
+"New York, NY HUD Metro FMR Area",36119,2655,2910,3644
+"Wyoming County, NY",36121,844,973,1336
+"Yates County, NY",36123,836,1097,1329
+"Burlington, NC MSA",37001,1230,1348,1670
+"Hickory-Lenoir-Morganton, NC MSA",37003,908,1095,1372
+"Alleghany County, NC",37005,745,978,1173
+"Anson County, NC HUD Metro FMR Area",37007,867,1138,1364
+"Ashe County, NC",37009,705,925,1220
+"Avery County, NC",37011,766,1005,1205
+"Beaufort County, NC",37013,737,925,1220
+"Bertie County, NC",37015,796,1044,1252
+"Bladen County, NC",37017,705,925,1258
+"Brunswick County, NC HUD Metro FMR Area",37019,1301,1426,1983
+"Asheville, NC MSA",37021,1429,1567,1905
+"Hickory-Lenoir-Morganton, NC MSA",37023,908,1095,1372
+"Charlotte-Concord-Gastonia, NC-SC HUD Metro FMR Area",37025,1538,1686,2076
+"Hickory-Lenoir-Morganton, NC MSA",37027,908,1095,1372
+"Camden County, NC HUD Metro FMR Area",37029,1139,1287,1790
+"Carteret County, NC",37031,913,1198,1541
+"Caswell County, NC",37033,748,925,1270
+"Hickory-Lenoir-Morganton, NC MSA",37035,908,1095,1372
+"Durham-Chapel Hill, NC HUD Metro FMR Area",37037,1507,1711,2117
+"Cherokee County, NC",37039,713,935,1290
+"Chowan County, NC",37041,930,1220,1463
+"Clay County, NC",37043,948,1039,1429
+"Cleveland County, NC",37045,763,925,1286
+"Columbus County, NC",37047,722,925,1109
+"Craven County, NC",37049,902,1184,1591
+"Fayetteville, NC HUD Metro FMR Area",37051,1113,1251,1667
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",37053,1512,1713,2376
+"Dare County, NC",37055,1305,1430,1821
+"Davidson County, NC HUD Metro FMR Area",37057,876,960,1316
+"Winston-Salem, NC HUD Metro FMR Area",37059,1082,1232,1607
+"Duplin County, NC",37061,747,980,1175
+"Durham-Chapel Hill, NC HUD Metro FMR Area",37063,1507,1711,2117
+"Rocky Mount, NC MSA",37065,918,1143,1550
+"Winston-Salem, NC HUD Metro FMR Area",37067,1082,1232,1607
+"Raleigh-Cary, NC MSA",37069,1596,1750,2196
+"Charlotte-Concord-Gastonia, NC-SC HUD Metro FMR Area",37071,1538,1686,2076
+"Gates County, NC HUD Metro FMR Area",37073,1513,1709,2364
+"Graham County, NC",37075,844,925,1199
+"Granville County, NC",37077,1084,1200,1571
+"Greene County, NC",37079,823,925,1189
+"Greensboro-High Point, NC HUD Metro FMR Area",37081,1213,1330,1703
+"Halifax County, NC",37083,742,925,1190
+"Harnett County, NC",37085,810,980,1363
+"Haywood County, NC",37087,1122,1230,1475
+"Asheville, NC MSA",37089,1429,1567,1905
+"Hertford County, NC",37091,705,925,1210
+"Hoke County, NC HUD Metro FMR Area",37093,761,998,1388
+"Hyde County, NC",37095,756,940,1204
+"Iredell County, NC HUD Metro FMR Area",37097,1222,1340,1809
+"Jackson County, NC",37099,879,964,1272
+"Raleigh-Cary, NC MSA",37101,1596,1750,2196
+"Jones County, NC",37103,752,925,1179
+"Lee County, NC",37105,880,1136,1362
+"Lenoir County, NC",37107,732,925,1241
+"Lincoln County, NC HUD Metro FMR Area",37109,953,1054,1461
+"McDowell County, NC",37111,790,925,1180
+"Macon County, NC",37113,830,987,1183
+"Asheville, NC MSA",37115,1429,1567,1905
+"Martin County, NC",37117,705,925,1220
+"Charlotte-Concord-Gastonia, NC-SC HUD Metro FMR Area",37119,1538,1686,2076
+"Mitchell County, NC",37121,705,925,1134
+"Montgomery County, NC",37123,794,925,1252
+"Pinehurst-Southern Pines, NC MSA",37125,1239,1358,1889
+"Rocky Mount, NC MSA",37127,918,1143,1550
+"Wilmington, NC HUD Metro FMR Area",37129,1513,1659,2178
+"Northampton County, NC",37131,741,972,1165
+"Jacksonville, NC MSA",37133,935,1173,1631
+"Durham-Chapel Hill, NC HUD Metro FMR Area",37135,1507,1711,2117
+"Pamlico County, NC",37137,866,1077,1291
+"Pasquotank County, NC",37139,927,1216,1640
+"Pender County, NC HUD Metro FMR Area",37141,1064,1166,1622
+"Perquimans County, NC",37143,804,999,1382
+"Person County, NC HUD Metro FMR Area",37145,744,948,1318
+"Greenville, NC MSA",37147,896,1095,1465
+"Polk County, NC",37149,829,983,1351
+"Greensboro-High Point, NC HUD Metro FMR Area",37151,1213,1330,1703
+"Richmond County, NC",37153,814,925,1286
+"Robeson County, NC",37155,748,925,1187
+"Rockingham County, NC HUD Metro FMR Area",37157,793,1040,1286
+"Rowan County, NC HUD Metro FMR Area",37159,958,1196,1573
+"Rutherford County, NC",37161,806,925,1275
+"Sampson County, NC",37163,806,925,1109
+"Scotland County, NC",37165,755,925,1244
+"Stanly County, NC",37167,705,925,1281
+"Winston-Salem, NC HUD Metro FMR Area",37169,1082,1232,1607
+"Surry County, NC",37171,705,925,1109
+"Swain County, NC",37173,813,925,1264
+"Transylvania County, NC",37175,887,1164,1396
+"Tyrrell County, NC",37177,744,925,1286
+"Charlotte-Concord-Gastonia, NC-SC HUD Metro FMR Area",37179,1538,1686,2076
+"Vance County, NC",37181,743,975,1197
+"Raleigh-Cary, NC MSA",37183,1596,1750,2196
+"Warren County, NC",37185,705,925,1172
+"Washington County, NC",37187,744,925,1197
+"Watauga County, NC",37189,988,1177,1504
+"Goldsboro, NC MSA",37191,948,1244,1496
+"Wilkes County, NC",37193,793,925,1233
+"Wilson County, NC",37195,794,1025,1307
+"Winston-Salem, NC HUD Metro FMR Area",37197,1082,1232,1607
+"Yancey County, NC",37199,713,935,1233
+"Adams County, ND",38001,702,873,1214
+"Barnes County, ND",38003,722,948,1137
+"Benson County, ND",38005,769,873,1214
+"Billings County, ND",38007,702,873,1214
+"Bottineau County, ND",38009,796,873,1153
+"Bowman County, ND",38011,796,873,1214
+"Burke County, ND",38013,665,873,1101
+"Bismarck, ND MSA",38015,1030,1175,1634
+"Fargo, ND-MN MSA",38017,917,1112,1547
+"Cavalier County, ND",38019,702,873,1170
+"Dickey County, ND",38021,730,873,1214
+"Divide County, ND",38023,1233,1534,1839
+"Dunn County, ND",38025,754,938,1125
+"Eddy County, ND",38027,665,873,1214
+"Emmons County, ND",38029,683,873,1047
+"Foster County, ND",38031,755,873,1214
+"Golden Valley County, ND",38033,826,1027,1428
+"Grand Forks, ND-MN MSA",38035,868,1089,1515
+"Grant County, ND",38037,683,873,1214
+"Griggs County, ND",38039,665,873,1076
+"Hettinger County, ND",38041,745,927,1149
+"Kidder County, ND",38043,729,873,1214
+"LaMoure County, ND",38045,704,873,1214
+"Logan County, ND",38047,815,1014,1410
+"McHenry County, ND HUD Metro FMR Area",38049,839,1000,1387
+"McIntosh County, ND",38051,787,873,1194
+"McKenzie County, ND",38053,1124,1354,1672
+"McLean County, ND",38055,796,873,1214
+"Mercer County, ND",38057,881,1156,1386
+"Bismarck, ND MSA",38059,1030,1175,1634
+"Mountrail County, ND",38061,850,1071,1386
+"Nelson County, ND",38063,745,873,1214
+"Bismarck, ND MSA",38065,1030,1175,1634
+"Pembina County, ND",38067,791,873,1214
+"Pierce County, ND",38069,755,873,1214
+"Ramsey County, ND",38071,719,873,1214
+"Ransom County, ND",38073,715,923,1196
+"Renville County, ND HUD Metro FMR Area",38075,824,1081,1329
+"Richland County, ND",38077,665,873,1214
+"Rolette County, ND",38079,727,954,1318
+"Sargent County, ND",38081,816,935,1261
+"Sheridan County, ND",38083,743,924,1285
+"Sioux County, ND",38085,733,873,1146
+"Slope County, ND",38087,743,924,1285
+"Stark County, ND",38089,874,1056,1469
+"Steele County, ND",38091,702,873,1214
+"Stutsman County, ND",38093,680,873,1214
+"Towner County, ND",38095,702,873,1214
+"Traill County, ND",38097,690,873,1214
+"Walsh County, ND",38099,680,873,1140
+"Ward County, ND HUD Metro FMR Area",38101,960,1165,1620
+"Wells County, ND",38103,796,873,1214
+"Williams County, ND",38105,1068,1196,1578
+"Adams County, OH",39001,785,973,1220
+"Lima, OH MSA",39003,844,1108,1338
+"Ashland County, OH",39005,779,973,1280
+"Ashtabula County, OH HUD Metro FMR Area",39007,840,1037,1257
+"Athens County, OH",39009,907,1092,1338
+"Auglaize County, OH",39011,762,1000,1391
+"Wheeling, WV-OH MSA",39013,816,991,1277
+"Brown County, OH HUD Metro FMR Area",39015,802,1008,1361
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",39017,1051,1353,1785
+"Canton-Massillon, OH MSA",39019,846,1086,1371
+"Champaign County, OH",39021,818,1046,1333
+"Springfield, OH MSA",39023,843,1106,1355
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",39025,1051,1353,1785
+"Clinton County, OH",39027,838,1029,1349
+"Columbiana County, OH",39029,779,973,1218
+"Coshocton County, OH",39031,824,973,1254
+"Crawford County, OH",39033,811,973,1283
+"Cleveland, OH HUD Metro FMR Area",39035,1058,1279,1646
+"Darke County, OH",39037,806,973,1290
+"Defiance County, OH",39039,799,980,1239
+"Columbus, OH HUD Metro FMR Area",39041,1194,1430,1715
+"Erie County, OH HUD Metro FMR Area",39043,886,1106,1384
+"Columbus, OH HUD Metro FMR Area",39045,1194,1430,1715
+"Fayette County, OH",39047,836,992,1273
+"Columbus, OH HUD Metro FMR Area",39049,1194,1430,1715
+"Toledo, OH MSA",39051,820,1076,1380
+"Gallia County, OH",39053,871,973,1240
+"Cleveland, OH HUD Metro FMR Area",39055,1058,1279,1646
+"Dayton-Kettering-Beavercreek, OH MSA",39057,1009,1273,1651
+"Guernsey County, OH",39059,742,973,1280
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",39061,1051,1353,1785
+"Hancock County, OH",39063,859,1127,1484
+"Hardin County, OH",39065,811,973,1230
+"Harrison County, OH",39067,749,973,1283
+"Henry County, OH",39069,766,982,1303
+"Highland County, OH",39071,845,973,1167
+"Hocking County, OH HUD Metro FMR Area",39073,742,973,1338
+"Holmes County, OH",39075,742,973,1197
+"Huron County, OH",39077,742,973,1212
+"Jackson County, OH",39079,762,973,1256
+"Weirton-Steubenville, WV-OH MSA",39081,757,973,1285
+"Knox County, OH",39083,862,1078,1408
+"Cleveland, OH HUD Metro FMR Area",39085,1058,1279,1646
+"Huntington-Ashland, WV-KY-OH HUD Metro FMR Area",39087,853,973,1249
+"Columbus, OH HUD Metro FMR Area",39089,1194,1430,1715
+"Logan County, OH",39091,783,1027,1251
+"Cleveland, OH HUD Metro FMR Area",39093,1058,1279,1646
+"Toledo, OH MSA",39095,820,1076,1380
+"Columbus, OH HUD Metro FMR Area",39097,1194,1430,1715
+"Youngstown-Warren, OH MSA",39099,771,973,1270
+"Marion County, OH",39101,811,1064,1276
+"Cleveland, OH HUD Metro FMR Area",39103,1058,1279,1646
+"Meigs County, OH",39105,758,973,1167
+"Mercer County, OH",39107,788,987,1287
+"Dayton-Kettering-Beavercreek, OH MSA",39109,1009,1273,1651
+"Monroe County, OH",39111,742,973,1283
+"Dayton-Kettering-Beavercreek, OH MSA",39113,1009,1273,1651
+"Morgan County, OH",39115,875,973,1193
+"Columbus, OH HUD Metro FMR Area",39117,1194,1430,1715
+"Muskingum County, OH",39119,820,973,1324
+"Noble County, OH",39121,749,983,1210
+"Ottawa County, OH HUD Metro FMR Area",39123,843,1106,1326
+"Paulding County, OH",39125,780,973,1343
+"Perry County, OH HUD Metro FMR Area",39127,790,973,1202
+"Columbus, OH HUD Metro FMR Area",39129,1194,1430,1715
+"Pike County, OH",39131,744,976,1214
+"Akron, OH MSA",39133,985,1268,1547
+"Preble County, OH",39135,742,973,1298
+"Putnam County, OH",39137,808,1053,1263
+"Mansfield, OH MSA",39139,773,973,1315
+"Ross County, OH",39141,882,1057,1335
+"Sandusky County, OH",39143,799,973,1214
+"Scioto County, OH",39145,808,973,1328
+"Seneca County, OH",39147,767,1007,1226
+"Shelby County, OH",39149,787,1033,1384
+"Canton-Massillon, OH MSA",39151,846,1086,1371
+"Akron, OH MSA",39153,985,1268,1547
+"Youngstown-Warren, OH MSA",39155,771,973,1270
+"Tuscarawas County, OH",39157,780,1023,1316
+"Union County, OH HUD Metro FMR Area",39159,1125,1433,1718
+"Van Wert County, OH",39161,762,973,1218
+"Vinton County, OH",39163,792,973,1167
+"Cincinnati, OH-KY-IN  HUD Metro FMR Area",39165,1051,1353,1785
+"Washington County, OH",39167,760,973,1313
+"Wayne County, OH",39169,816,1041,1269
+"Williams County, OH",39171,761,973,1208
+"Toledo, OH MSA",39173,820,1076,1380
+"Wyandot County, OH",39175,800,973,1242
+"Adair County, OK",40001,714,937,1161
+"Alfalfa County, OK",40003,714,937,1303
+"Atoka County, OK",40005,744,937,1175
+"Beaver County, OK",40007,732,937,1249
+"Beckham County, OK",40009,799,1048,1257
+"Blaine County, OK",40011,746,979,1174
+"Bryan County, OK",40013,762,1000,1322
+"Caddo County, OK",40015,734,937,1162
+"Oklahoma City, OK HUD Metro FMR Area",40017,1017,1244,1675
+"Carter County, OK",40019,803,1054,1324
+"Cherokee County, OK",40021,769,948,1215
+"Choctaw County, OK",40023,714,937,1134
+"Cimarron County, OK",40025,732,937,1303
+"Oklahoma City, OK HUD Metro FMR Area",40027,1017,1244,1675
+"Coal County, OK",40029,714,937,1279
+"Lawton, OK HUD Metro FMR Area",40031,784,1001,1392
+"Cotton County, OK HUD Metro FMR Area",40033,733,962,1153
+"Craig County, OK",40035,755,991,1209
+"Tulsa, OK HUD Metro FMR Area",40037,987,1217,1602
+"Custer County, OK",40039,732,937,1303
+"Delaware County, OK",40041,722,944,1191
+"Dewey County, OK",40043,728,955,1319
+"Ellis County, OK",40045,855,937,1173
+"Enid, OK MSA",40047,799,1027,1336
+"Garvin County, OK",40049,714,937,1249
+"Grady County, OK HUD Metro FMR Area",40051,765,1004,1343
+"Grant County, OK",40053,714,937,1279
+"Greer County, OK",40055,732,937,1303
+"Harmon County, OK",40057,732,937,1123
+"Harper County, OK",40059,732,937,1146
+"Haskell County, OK",40061,714,937,1147
+"Hughes County, OK",40063,714,937,1150
+"Jackson County, OK",40065,714,937,1289
+"Jefferson County, OK",40067,714,937,1175
+"Johnston County, OK",40069,801,937,1269
+"Kay County, OK",40071,714,937,1250
+"Kingfisher County, OK",40073,825,1055,1343
+"Kiowa County, OK",40075,761,937,1303
+"Latimer County, OK",40077,714,937,1165
+"Le Flore County, OK",40079,741,937,1300
+"Lincoln County, OK HUD Metro FMR Area",40081,814,937,1257
+"Oklahoma City, OK HUD Metro FMR Area",40083,1017,1244,1675
+"Love County, OK",40085,880,1062,1273
+"Oklahoma City, OK HUD Metro FMR Area",40087,1017,1244,1675
+"McCurtain County, OK",40089,747,937,1256
+"McIntosh County, OK",40091,759,937,1303
+"Major County, OK",40093,714,937,1123
+"Marshall County, OK",40095,772,937,1219
+"Mayes County, OK",40097,736,937,1233
+"Murray County, OK",40099,758,994,1227
+"Muskogee County, OK",40101,722,947,1188
+"Noble County, OK",40103,765,937,1123
+"Nowata County, OK",40105,714,937,1168
+"Okfuskee County, OK",40107,738,937,1176
+"Oklahoma City, OK HUD Metro FMR Area",40109,1017,1244,1675
+"Okmulgee County, OK HUD Metro FMR Area",40111,766,937,1284
+"Tulsa, OK HUD Metro FMR Area",40113,987,1217,1602
+"Ottawa County, OK",40115,714,937,1183
+"Pawnee County, OK HUD Metro FMR Area",40117,818,1006,1336
+"Payne County, OK",40119,847,1035,1439
+"Pittsburg County, OK",40121,787,944,1256
+"Pontotoc County, OK",40123,758,994,1230
+"Pottawatomie County, OK",40125,714,937,1257
+"Pushmataha County, OK",40127,750,937,1303
+"Roger Mills County, OK",40129,732,937,1166
+"Tulsa, OK HUD Metro FMR Area",40131,987,1217,1602
+"Seminole County, OK",40133,734,937,1256
+"Fort Smith, AR-OK MSA",40135,714,937,1266
+"Stephens County, OK",40137,779,937,1303
+"Texas County, OK",40139,897,1116,1338
+"Tillman County, OK",40141,855,937,1303
+"Tulsa, OK HUD Metro FMR Area",40143,987,1217,1602
+"Tulsa, OK HUD Metro FMR Area",40145,987,1217,1602
+"Washington County, OK",40147,801,947,1317
+"Washita County, OK",40149,855,937,1217
+"Woods County, OK",40151,831,975,1217
+"Woodward County, OK",40153,809,1061,1272
+"Baker County, OR",41001,898,1047,1456
+"Corvallis, OR MSA",41003,1290,1622,2256
+"Portland-Vancouver-Hillsboro, OR-WA MSA",41005,1677,1922,2619
+"Clatsop County, OR",41007,1110,1457,1995
+"Portland-Vancouver-Hillsboro, OR-WA MSA",41009,1677,1922,2619
+"Coos County, OR",41011,982,1265,1759
+"Crook County, OR HUD Metro FMR Area",41013,1056,1385,1926
+"Curry County, OR",41015,1067,1400,1883
+"Bend-Redmond, OR HUD Metro FMR Area",41017,1371,1784,2481
+"Douglas County, OR",41019,969,1271,1768
+"Gilliam County, OR",41021,799,1048,1458
+"Grant County, OR",41023,985,1127,1533
+"Harney County, OR",41025,768,1008,1402
+"Hood River County, OR",41027,1436,1884,2620
+"Medford, OR MSA",41029,1229,1530,2128
+"Jefferson County, OR HUD Metro FMR Area",41031,945,1229,1709
+"Grants Pass, OR MSA",41033,1039,1363,1896
+"Klamath County, OR",41035,958,1247,1734
+"Lake County, OR",41037,929,1150,1599
+"Eugene-Springfield, OR MSA",41039,1286,1688,2348
+"Lincoln County, OR",41041,1128,1480,2043
+"Albany, OR MSA",41043,1236,1500,2030
+"Malheur County, OR",41045,942,1081,1503
+"Salem, OR MSA",41047,1201,1560,2159
+"Morrow County, OR",41049,831,1027,1428
+"Portland-Vancouver-Hillsboro, OR-WA MSA",41051,1677,1922,2619
+"Salem, OR MSA",41053,1201,1560,2159
+"Sherman County, OR",41055,1026,1346,1677
+"Tillamook County, OR",41057,1136,1405,1954
+"Umatilla County, OR",41059,946,1241,1726
+"Union County, OR",41061,980,1222,1700
+"Wallowa County, OR",41063,942,1149,1598
+"Wasco County, OR",41065,1289,1600,2225
+"Portland-Vancouver-Hillsboro, OR-WA MSA",41067,1677,1922,2619
+"Wheeler County, OR",41069,770,1010,1405
+"Portland-Vancouver-Hillsboro, OR-WA MSA",41071,1677,1922,2619
+"Gettysburg, PA MSA",42001,1099,1374,1834
+"Pittsburgh, PA HUD Metro FMR Area",42003,1077,1299,1661
+"Armstrong County, PA HUD Metro FMR Area",42005,767,1002,1300
+"Pittsburgh, PA HUD Metro FMR Area",42007,1077,1299,1661
+"Bedford County, PA",42009,742,973,1226
+"Reading, PA MSA",42011,1237,1575,1937
+"Altoona, PA MSA",42013,948,1138,1458
+"Bradford County, PA",42015,844,1066,1341
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",42017,1520,1810,2170
+"Pittsburgh, PA HUD Metro FMR Area",42019,1077,1299,1661
+"Johnstown, PA MSA",42021,846,1035,1431
+"Cameron County, PA",42023,748,981,1179
+"Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",42025,1341,1634,2087
+"State College, PA MSA",42027,1194,1406,1760
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",42029,1520,1810,2170
+"Clarion County, PA",42031,762,973,1182
+"Clearfield County, PA",42033,779,975,1289
+"Clinton County, PA",42035,775,995,1258
+"Columbia County, PA",42037,941,1140,1367
+"Crawford County, PA",42039,787,973,1306
+"Harrisburg-Carlisle, PA MSA",42041,1212,1493,1920
+"Harrisburg-Carlisle, PA MSA",42043,1212,1493,1920
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",42045,1520,1810,2170
+"Elk County, PA",42047,825,973,1283
+"Erie, PA MSA",42049,945,1212,1499
+"Pittsburgh, PA HUD Metro FMR Area",42051,1077,1299,1661
+"Forest County, PA",42053,888,973,1236
+"Chambersburg, PA MSA",42055,1119,1379,1825
+"Fulton County, PA",42057,751,973,1167
+"Greene County, PA",42059,835,1096,1314
+"Huntingdon County, PA",42061,833,973,1320
+"Indiana County, PA",42063,851,981,1329
+"Jefferson County, PA",42065,768,973,1197
+"Juniata County, PA",42067,742,973,1250
+"Scranton--Wilkes-Barre, PA MSA",42069,1028,1252,1631
+"Lancaster, PA MSA",42071,1220,1526,1980
+"Lawrence County, PA HUD Metro FMR Area",42073,780,1023,1423
+"Lebanon, PA MSA",42075,1112,1411,1797
+"Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",42077,1341,1634,2087
+"Scranton--Wilkes-Barre, PA MSA",42079,1028,1252,1631
+"Williamsport, PA MSA",42081,995,1195,1586
+"McKean County, PA",42083,832,973,1219
+"Mercer County, PA",42085,792,996,1385
+"Mifflin County, PA",42087,786,973,1283
+"Monroe County, PA",42089,1165,1529,1974
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",42091,1520,1810,2170
+"Montour County, PA",42093,1046,1372,1873
+"Allentown-Bethlehem-Easton, PA HUD Metro FMR Area",42095,1341,1634,2087
+"Northumberland County, PA",42097,843,973,1241
+"Harrisburg-Carlisle, PA MSA",42099,1212,1493,1920
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",42101,1520,1810,2170
+"Pike County, PA",42103,1205,1496,2063
+"Potter County, PA",42105,742,973,1223
+"Schuylkill County, PA",42107,786,1030,1341
+"Snyder County, PA",42109,894,1059,1321
+"Somerset County, PA",42111,835,973,1307
+"Sullivan County, PA",42113,775,973,1353
+"Susquehanna County, PA",42115,805,1045,1342
+"Tioga County, PA",42117,826,1051,1362
+"Union County, PA",42119,913,1001,1392
+"Venango County, PA",42121,742,973,1221
+"Warren County, PA",42123,814,973,1304
+"Pittsburgh, PA HUD Metro FMR Area",42125,1077,1299,1661
+"Wayne County, PA",42127,927,1132,1417
+"Pittsburgh, PA HUD Metro FMR Area",42129,1077,1299,1661
+"Scranton--Wilkes-Barre, PA MSA",42131,1028,1252,1631
+"York-Hanover, PA MSA",42133,1060,1335,1796
+"Providence-Fall River, RI-MA HUD Metro FMR Area",44001,1402,1729,2087
+"Providence-Fall River, RI-MA HUD Metro FMR Area",44003,1402,1729,2087
+"Providence-Fall River, RI-MA HUD Metro FMR Area",44005,1402,1729,2087
+"Newport-Middleton-Portsmouth, RI HUD Metro FMR Area",44005,1764,2314,3131
+"Providence-Fall River, RI-MA HUD Metro FMR Area",44007,1402,1729,2087
+"Providence-Fall River, RI-MA HUD Metro FMR Area",44009,1402,1729,2087
+"Westerly-Hopkinton-New Shoreham, RI HUD Metro FMR Area",44009,1362,1721,2146
+"Abbeville County, SC",45001,725,902,1220
+"Augusta-Richmond County, GA-SC HUD Metro FMR Area",45003,1114,1261,1627
+"Allendale County, SC",45005,823,902,1216
+"Anderson, SC HUD Metro FMR Area",45007,1035,1173,1519
+"Bamberg County, SC",45009,687,902,1183
+"Barnwell County, SC",45011,709,930,1115
+"Beaufort County, SC HUD Metro FMR Area",45013,1657,1816,2177
+"Charleston-North Charleston, SC MSA",45015,1630,1787,2222
+"Columbia, SC HUD Metro FMR Area",45017,1164,1276,1623
+"Charleston-North Charleston, SC MSA",45019,1630,1787,2222
+"Cherokee County, SC",45021,795,902,1135
+"Chester County, SC HUD Metro FMR Area",45023,816,1056,1469
+"Chesterfield County, SC",45025,687,902,1169
+"Clarendon County, SC",45027,687,902,1205
+"Colleton County, SC",45029,687,902,1081
+"Darlington County, SC HUD Metro FMR Area",45031,856,1098,1317
+"Dillon County, SC",45033,762,902,1235
+"Charleston-North Charleston, SC MSA",45035,1630,1787,2222
+"Augusta-Richmond County, GA-SC HUD Metro FMR Area",45037,1114,1261,1627
+"Columbia, SC HUD Metro FMR Area",45039,1164,1276,1623
+"Florence, SC HUD Metro FMR Area",45041,953,1117,1434
+"Georgetown County, SC",45043,918,1204,1444
+"Greenville-Mauldin-Easley, SC HUD Metro FMR Area",45045,1221,1339,1612
+"Greenwood County, SC",45047,757,934,1135
+"Hampton County, SC",45049,720,902,1200
+"Myrtle Beach-North Myrtle Beach-Conway, SC HUD Metro FMR Area",45051,1229,1465,1805
+"Jasper County, SC HUD Metro FMR Area",45053,1407,1542,1849
+"Kershaw County, SC HUD Metro FMR Area",45055,849,1009,1214
+"Lancaster County, SC HUD Metro FMR Area",45057,922,1011,1382
+"Laurens County, SC HUD Metro FMR Area",45059,869,1133,1358
+"Lee County, SC",45061,687,902,1111
+"Columbia, SC HUD Metro FMR Area",45063,1164,1276,1623
+"McCormick County, SC",45065,729,956,1251
+"Marion County, SC",45067,823,902,1197
+"Marlboro County, SC",45069,687,902,1082
+"Newberry County, SC",45071,787,994,1192
+"Oconee County, SC",45073,717,941,1153
+"Orangeburg County, SC",45075,750,910,1091
+"Greenville-Mauldin-Easley, SC HUD Metro FMR Area",45077,1221,1339,1612
+"Columbia, SC HUD Metro FMR Area",45079,1164,1276,1623
+"Columbia, SC HUD Metro FMR Area",45081,1164,1276,1623
+"Spartanburg, SC HUD Metro FMR Area",45083,1083,1187,1439
+"Sumter, SC MSA",45085,972,1276,1530
+"Union County, SC HUD Metro FMR Area",45087,791,1038,1270
+"Williamsburg County, SC",45089,687,902,1183
+"Charlotte-Concord-Gastonia, NC-SC HUD Metro FMR Area",45091,1538,1686,2076
+"Aurora County, SD",46003,768,929,1289
+"Beadle County, SD",46005,728,955,1245
+"Bennett County, SD",46007,901,1182,1417
+"Bon Homme County, SD",46009,762,929,1292
+"Brookings County, SD",46011,781,953,1325
+"Brown County, SD",46013,708,929,1168
+"Brule County, SD",46015,708,929,1292
+"Buffalo County, SD",46017,918,1204,1444
+"Butte County, SD",46019,838,1099,1318
+"Campbell County, SD",46021,794,929,1292
+"Charles Mix County, SD",46023,807,929,1292
+"Clark County, SD",46025,847,929,1144
+"Clay County, SD",46027,708,929,1292
+"Codington County, SD",46029,825,1083,1319
+"Corson County, SD",46031,708,929,1186
+"Custer County, SD HUD Metro FMR Area",46033,894,1173,1631
+"Davison County, SD",46035,713,936,1302
+"Day County, SD",46037,751,929,1292
+"Deuel County, SD",46039,708,929,1292
+"Dewey County, SD",46041,832,929,1207
+"Douglas County, SD",46043,722,948,1206
+"Edmunds County, SD",46045,708,929,1246
+"Fall River County, SD",46047,878,1152,1381
+"Faulk County, SD",46049,724,950,1209
+"Grant County, SD",46051,708,929,1292
+"Gregory County, SD",46053,749,929,1242
+"Haakon County, SD",46055,722,948,1206
+"Hamlin County, SD",46057,708,929,1225
+"Hand County, SD",46059,788,929,1292
+"Hanson County, SD",46061,824,929,1292
+"Harding County, SD",46063,722,948,1206
+"Hughes County, SD",46065,832,1034,1308
+"Hutchinson County, SD",46067,708,929,1210
+"Hyde County, SD",46069,722,948,1206
+"Jackson County, SD",46071,826,929,1182
+"Jerauld County, SD",46073,722,948,1206
+"Jones County, SD",46075,708,929,1182
+"Kingsbury County, SD",46077,725,951,1140
+"Lake County, SD",46079,739,970,1163
+"Lawrence County, SD",46081,797,1046,1455
+"Sioux Falls, SD HUD Metro FMR Area",46083,986,1156,1586
+"Lyman County, SD",46085,716,940,1127
+"Sioux Falls, SD HUD Metro FMR Area",46087,986,1156,1586
+"McPherson County, SD",46089,710,929,1182
+"Marshall County, SD",46091,708,929,1281
+"Meade County, SD HUD Metro FMR Area",46093,970,1273,1770
+"Mellette County, SD",46095,722,948,1206
+"Miner County, SD",46097,708,929,1182
+"Sioux Falls, SD HUD Metro FMR Area",46099,986,1156,1586
+"Moody County, SD",46101,708,929,1243
+Oglala Lakota County,46102,708,929,1282
+"Rapid City, SD HUD Metro FMR Area",46103,1018,1336,1743
+"Perkins County, SD",46105,722,929,1212
+"Potter County, SD",46107,813,1067,1358
+"Roberts County, SD",46109,799,929,1234
+"Sanborn County, SD",46111,766,929,1292
+"Spink County, SD",46115,777,929,1114
+"Stanley County, SD",46117,788,1034,1316
+"Sully County, SD",46119,722,948,1206
+"Todd County, SD",46121,840,929,1292
+"Tripp County, SD",46123,708,929,1251
+"Sioux Falls, SD HUD Metro FMR Area",46125,986,1156,1586
+"Sioux City, IA-NE-SD MSA",46127,925,1154,1386
+"Walworth County, SD",46129,747,980,1175
+"Yankton County, SD",46135,811,929,1292
+"Ziebach County, SD",46137,708,929,1114
+"Knoxville, TN HUD Metro FMR Area",47001,1184,1471,1864
+"Bedford County, TN",47003,928,1017,1414
+"Benton County, TN",47005,705,925,1286
+"Bledsoe County, TN",47007,743,975,1169
+"Knoxville, TN HUD Metro FMR Area",47009,1184,1471,1864
+"Cleveland, TN MSA",47011,940,1233,1584
+"Campbell County, TN HUD Metro FMR Area",47013,722,947,1249
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",47015,1578,1730,2211
+"Carroll County, TN",47017,746,925,1151
+"Johnson City, TN MSA",47019,893,1132,1398
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",47021,1578,1730,2211
+"Jackson, TN HUD Metro FMR Area",47023,960,1260,1677
+"Claiborne County, TN",47025,844,925,1155
+"Clay County, TN",47027,705,925,1286
+"Cocke County, TN",47029,742,925,1209
+"Coffee County, TN",47031,780,959,1281
+"Crockett County, TN HUD Metro FMR Area",47033,842,1083,1389
+"Cumberland County, TN",47035,723,942,1304
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",47037,1578,1730,2211
+"Decatur County, TN",47039,736,925,1286
+"DeKalb County, TN",47041,726,953,1143
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",47043,1578,1730,2211
+"Dyer County, TN",47045,778,925,1220
+"Memphis, TN-MS-AR HUD Metro FMR Area",47047,1154,1274,1683
+"Fentress County, TN",47049,705,925,1204
+"Franklin County, TN",47051,747,980,1307
+"Gibson County, TN HUD Metro FMR Area",47053,706,927,1289
+"Giles County, TN",47055,763,1001,1200
+"Grainger County, TN HUD Metro FMR Area",47057,717,941,1241
+"Greene County, TN",47059,797,925,1279
+"Grundy County, TN",47061,844,925,1162
+"Morristown, TN HUD Metro FMR Area",47063,887,1135,1444
+"Chattanooga, TN-GA MSA",47065,1263,1390,1734
+"Hancock County, TN",47067,844,925,1109
+"Hardeman County, TN",47069,705,925,1286
+"Hardin County, TN",47071,705,925,1220
+"Kingsport-Bristol, TN-VA MSA",47073,818,1044,1338
+"Haywood County, TN",47075,705,925,1226
+"Henderson County, TN",47077,742,925,1178
+"Henry County, TN",47079,723,949,1138
+"Hickman County, TN HUD Metro FMR Area",47081,832,992,1277
+"Houston County, TN",47083,726,925,1253
+"Humphreys County, TN",47085,728,955,1189
+"Jackson County, TN",47087,705,925,1217
+"Morristown, TN HUD Metro FMR Area",47089,887,1135,1444
+"Johnson County, TN",47091,844,925,1273
+"Knoxville, TN HUD Metro FMR Area",47093,1184,1471,1864
+"Lake County, TN",47095,705,925,1174
+"Lauderdale County, TN",47097,710,925,1239
+"Lawrence County, TN",47099,716,939,1126
+"Lewis County, TN",47101,844,925,1286
+"Lincoln County, TN",47103,844,925,1286
+"Knoxville, TN HUD Metro FMR Area",47105,1184,1471,1864
+"McMinn County, TN",47107,845,926,1151
+"McNairy County, TN",47109,742,925,1286
+"Macon County, TN HUD Metro FMR Area",47111,887,972,1290
+"Jackson, TN HUD Metro FMR Area",47113,960,1260,1677
+"Chattanooga, TN-GA MSA",47115,1263,1390,1734
+"Marshall County, TN",47117,793,1041,1373
+"Maury County, TN HUD Metro FMR Area",47119,1138,1349,1701
+"Meigs County, TN",47121,705,925,1227
+"Monroe County, TN",47123,764,925,1220
+"Clarksville, TN-KY HUD Metro FMR Area",47125,1094,1346,1871
+"Moore County, TN",47127,742,925,1282
+"Morgan County, TN HUD Metro FMR Area",47129,753,988,1303
+"Obion County, TN",47131,727,925,1187
+"Overton County, TN",47133,742,925,1165
+"Perry County, TN",47135,818,925,1109
+"Pickett County, TN",47137,730,958,1149
+"Cleveland, TN MSA",47139,940,1233,1584
+"Putnam County, TN",47141,818,1014,1409
+"Rhea County, TN",47143,705,925,1220
+"Roane County, TN HUD Metro FMR Area",47145,918,1092,1432
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",47147,1578,1730,2211
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",47149,1578,1730,2211
+"Scott County, TN",47151,762,925,1159
+"Chattanooga, TN-GA MSA",47153,1263,1390,1734
+"Sevier County, TN",47155,973,1159,1522
+"Memphis, TN-MS-AR HUD Metro FMR Area",47157,1154,1274,1683
+"Smith County, TN HUD Metro FMR Area",47159,801,1051,1368
+"Stewart County, TN HUD Metro FMR Area",47161,815,1004,1396
+"Kingsport-Bristol, TN-VA MSA",47163,818,1044,1338
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",47165,1578,1730,2211
+"Memphis, TN-MS-AR HUD Metro FMR Area",47167,1154,1274,1683
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",47169,1578,1730,2211
+"Johnson City, TN MSA",47171,893,1132,1398
+"Knoxville, TN HUD Metro FMR Area",47173,1184,1471,1864
+"Van Buren County, TN",47175,705,925,1198
+"Warren County, TN",47177,735,964,1156
+"Johnson City, TN MSA",47179,893,1132,1398
+"Wayne County, TN",47181,705,925,1109
+"Weakley County, TN",47183,710,925,1119
+"White County, TN",47185,756,992,1240
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",47187,1578,1730,2211
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",47189,1578,1730,2211
+"Anderson County, TX",48001,901,1117,1339
+"Andrews County, TX",48003,1300,1425,1709
+"Angelina County, TX",48005,892,1021,1365
+"Aransas County, TX HUD Metro FMR Area",48007,1072,1407,1910
+"Wichita Falls, TX MSA",48009,925,1136,1553
+"Amarillo, TX HUD Metro FMR Area",48011,903,1106,1503
+"Atascosa County, TX HUD Metro FMR Area",48013,1002,1098,1435
+"Austin County, TX HUD Metro FMR Area",48015,891,1095,1523
+"Bailey County, TX",48017,778,973,1266
+"San Antonio-New Braunfels, TX HUD Metro FMR Area",48019,1177,1426,1830
+"Austin-Round Rock-San Marcos, TX MSA",48021,1562,1852,2347
+"Baylor County, TX",48023,742,973,1353
+"Bee County, TX",48025,903,1185,1467
+"Killeen-Temple, TX HUD Metro FMR Area",48027,990,1233,1711
+"San Antonio-New Braunfels, TX HUD Metro FMR Area",48029,1177,1426,1830
+"Blanco County, TX",48031,889,1167,1623
+"Borden County, TX",48033,811,1015,1321
+"Bosque County, TX HUD Metro FMR Area",48035,742,973,1283
+"Texarkana, TX-Texarkana, AR HUD Metro FMR Area",48037,868,1101,1369
+"Brazoria County, TX HUD Metro FMR Area",48039,1240,1359,1839
+"College Station-Bryan, TX MSA",48041,1082,1186,1649
+"Brewster County, TX",48043,808,993,1381
+"Briscoe County, TX",48045,811,1015,1321
+"Brooks County, TX",48047,778,973,1353
+"Brown County, TX",48049,823,1080,1362
+"College Station-Bryan, TX MSA",48051,1082,1186,1649
+"Burnet County, TX",48053,997,1247,1645
+"Austin-Round Rock-San Marcos, TX MSA",48055,1562,1852,2347
+"Calhoun County, TX",48057,888,973,1353
+"Abilene, TX MSA",48059,1020,1276,1653
+"Brownsville-Harlingen, TX MSA",48061,866,1047,1414
+"Camp County, TX",48063,754,973,1353
+"Amarillo, TX HUD Metro FMR Area",48065,903,1106,1503
+"Cass County, TX",48067,742,973,1328
+"Castro County, TX",48069,801,1050,1259
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",48071,1323,1573,2116
+"Cherokee County, TX",48073,756,984,1362
+"Childress County, TX",48075,853,1049,1409
+"Wichita Falls, TX MSA",48077,925,1136,1553
+"Cochran County, TX HUD Metro FMR Area",48079,820,973,1170
+"Coke County, TX",48081,742,973,1234
+"Coleman County, TX",48083,803,1053,1263
+"Dallas, TX HUD Metro FMR Area",48085,1648,1931,2431
+"Collingsworth County, TX",48087,778,973,1266
+"Colorado County, TX",48089,917,1147,1375
+"San Antonio-New Braunfels, TX HUD Metro FMR Area",48091,1177,1426,1830
+"Comanche County, TX",48093,742,973,1353
+"Concho County, TX",48095,922,1153,1500
+"Cooke County, TX",48097,961,1261,1552
+"Killeen-Temple, TX HUD Metro FMR Area",48099,990,1233,1711
+"Cottle County, TX",48101,811,1015,1321
+"Crane County, TX",48103,783,980,1275
+"Crockett County, TX",48105,811,1015,1321
+"Lubbock, TX HUD Metro FMR Area",48107,990,1175,1634
+"Culberson County, TX",48109,811,1015,1321
+"Dallam County, TX",48111,1067,1170,1558
+"Dallas, TX HUD Metro FMR Area",48113,1648,1931,2431
+"Dawson County, TX",48115,823,1080,1295
+"Deaf Smith County, TX",48117,855,1070,1283
+"Delta County, TX",48119,808,973,1345
+"Dallas, TX HUD Metro FMR Area",48121,1648,1931,2431
+"DeWitt County, TX",48123,912,1141,1368
+"Dickens County, TX",48125,778,973,1167
+"Dimmit County, TX",48127,888,973,1353
+"Donley County, TX",48129,778,973,1178
+"Duval County, TX",48131,811,1015,1321
+"Eastland County, TX",48133,862,973,1353
+"Odessa, TX MSA",48135,1269,1595,1912
+"Edwards County, TX",48137,811,1015,1321
+"Dallas, TX HUD Metro FMR Area",48139,1648,1931,2431
+"El Paso, TX HUD Metro FMR Area",48141,1013,1191,1633
+"Erath County, TX",48143,899,1179,1640
+"Falls County, TX HUD Metro FMR Area",48145,742,973,1353
+"Fannin County, TX",48147,751,985,1370
+"Fayette County, TX",48149,882,1019,1388
+"Fisher County, TX",48151,755,973,1167
+"Floyd County, TX",48153,742,973,1167
+"Foard County, TX",48155,750,973,1266
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",48157,1323,1573,2116
+"Franklin County, TX",48159,885,1107,1327
+"Freestone County, TX",48161,742,973,1298
+"Frio County, TX",48163,870,1088,1416
+"Gaines County, TX",48165,832,973,1167
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",48167,1323,1573,2116
+"Garza County, TX HUD Metro FMR Area",48169,820,973,1353
+"Gillespie County, TX",48171,1096,1438,1806
+"Glasscock County, TX",48173,811,1015,1321
+"Victoria, TX MSA",48175,1153,1442,1729
+"Gonzales County, TX",48177,742,973,1353
+"Gray County, TX",48179,790,1037,1243
+"Sherman-Denison, TX MSA",48181,1089,1351,1879
+"Longview, TX HUD Metro FMR Area",48183,1013,1199,1606
+"Grimes County, TX",48185,853,1067,1287
+"San Antonio-New Braunfels, TX HUD Metro FMR Area",48187,1177,1426,1830
+"Hale County, TX",48189,888,973,1304
+"Hall County, TX",48191,751,973,1353
+"Hamilton County, TX",48193,742,973,1309
+"Hansford County, TX",48195,848,1113,1379
+"Hardeman County, TX",48197,742,973,1220
+"Beaumont-Port Arthur, TX MSA",48199,898,1103,1446
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",48201,1323,1573,2116
+"Harrison County, TX HUD Metro FMR Area",48203,960,1260,1511
+"Hartley County, TX",48205,902,1129,1489
+"Haskell County, TX",48207,778,973,1353
+"Austin-Round Rock-San Marcos, TX MSA",48209,1562,1852,2347
+"Hemphill County, TX",48211,778,973,1353
+"Henderson County, TX",48213,830,1009,1328
+"McAllen-Edinburg-Mission, TX MSA",48215,847,1060,1376
+"Hill County, TX",48217,802,1023,1397
+"Hockley County, TX HUD Metro FMR Area",48219,854,973,1353
+"Hood County, TX",48221,1237,1412,1693
+"Hopkins County, TX",48223,952,1115,1471
+"Houston County, TX",48225,745,978,1204
+"Howard County, TX",48227,924,1173,1406
+"Hudspeth County, TX HUD Metro FMR Area",48229,828,973,1167
+"Dallas, TX HUD Metro FMR Area",48231,1648,1931,2431
+"Hutchinson County, TX",48233,742,973,1353
+"San Angelo, TX MSA",48235,1049,1339,1821
+"Jack County, TX",48237,888,973,1353
+"Jackson County, TX",48239,940,1057,1267
+"Jasper County, TX",48241,838,973,1221
+"Jeff Davis County, TX",48243,811,1015,1321
+"Beaumont-Port Arthur, TX MSA",48245,898,1103,1446
+"Jim Hogg County, TX",48247,778,973,1167
+"Jim Wells County, TX",48249,742,973,1289
+"Fort Worth-Arlington, TX HUD Metro FMR Area",48251,1473,1723,2273
+"Abilene, TX MSA",48253,1020,1276,1653
+"Karnes County, TX",48255,968,1270,1523
+"Dallas, TX HUD Metro FMR Area",48257,1648,1931,2431
+"Kendall County, TX HUD Metro FMR Area",48259,1311,1650,2176
+"Kenedy County, TX",48261,811,1015,1321
+"Kent County, TX",48263,811,1015,1321
+"Kerr County, TX",48265,965,1118,1475
+"Kimble County, TX",48267,742,973,1340
+"King County, TX",48269,811,1015,1321
+"Kinney County, TX",48271,811,1015,1321
+"Kleberg County, TX",48273,953,1238,1484
+"Knox County, TX",48275,778,973,1266
+"Lamar County, TX",48277,785,973,1294
+"Lamb County, TX",48279,742,973,1313
+"Lampasas County, TX HUD Metro FMR Area",48281,813,1067,1475
+"La Salle County, TX",48283,811,1015,1321
+"Lavaca County, TX",48285,886,1055,1265
+"Lee County, TX",48287,912,1141,1430
+"Leon County, TX",48289,778,973,1283
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",48291,1323,1573,2116
+"Limestone County, TX",48293,742,973,1231
+"Lipscomb County, TX",48295,778,973,1270
+"Live Oak County, TX",48297,787,1033,1314
+"Llano County, TX",48299,845,1097,1526
+"Loving County, TX",48301,811,1015,1321
+"Lubbock, TX HUD Metro FMR Area",48303,990,1175,1634
+"Lynn County, TX HUD Metro FMR Area",48305,767,1007,1207
+"McCulloch County, TX",48307,863,1045,1360
+"Waco, TX HUD Metro FMR Area",48309,996,1240,1599
+"McMullen County, TX",48311,811,1015,1321
+"Madison County, TX",48313,742,973,1353
+"Marion County, TX",48315,778,973,1238
+"Martin County, TX HUD Metro FMR Area",48317,1441,1772,2215
+"Mason County, TX",48319,819,1024,1333
+"Matagorda County, TX",48321,960,1173,1498
+"Eagle Pass, TX MSA",48323,888,973,1337
+"Medina County, TX HUD Metro FMR Area",48325,912,1196,1578
+"Menard County, TX",48327,778,973,1353
+"Midland, TX HUD Metro FMR Area",48329,1449,1780,2286
+"Milam County, TX",48331,790,1037,1302
+"Mills County, TX",48333,888,973,1353
+"Mitchell County, TX",48335,831,1091,1420
+"Montague County, TX",48337,856,1055,1467
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",48339,1323,1573,2116
+"Moore County, TX",48341,791,1038,1305
+"Morris County, TX",48343,778,973,1254
+"Motley County, TX",48345,778,973,1167
+"Nacogdoches County, TX",48347,893,1067,1279
+"Navarro County, TX",48349,863,1055,1467
+"Newton County, TX",48351,778,973,1353
+"Nolan County, TX",48353,810,995,1384
+"Corpus Christi, TX HUD Metro FMR Area",48355,1117,1366,1796
+"Ochiltree County, TX",48357,798,998,1280
+"Oldham County, TX HUD Metro FMR Area",48359,899,1101,1499
+"Beaumont-Port Arthur, TX MSA",48361,898,1103,1446
+"Palo Pinto County, TX",48363,825,1068,1397
+"Panola County, TX",48365,758,995,1235
+"Fort Worth-Arlington, TX HUD Metro FMR Area",48367,1473,1723,2273
+"Parmer County, TX",48369,828,1087,1303
+"Pecos County, TX",48371,888,973,1353
+"Polk County, TX",48373,855,1122,1345
+"Amarillo, TX HUD Metro FMR Area",48375,903,1106,1503
+"Presidio County, TX",48377,811,1015,1321
+"Rains County, TX",48379,888,973,1353
+"Amarillo, TX HUD Metro FMR Area",48381,903,1106,1503
+"Reagan County, TX",48383,811,1015,1321
+"Real County, TX",48385,953,1045,1360
+"Red River County, TX",48387,778,973,1353
+"Reeves County, TX",48389,988,1083,1299
+"Refugio County, TX",48391,778,973,1353
+"Roberts County, TX",48393,811,1015,1321
+"College Station-Bryan, TX MSA",48395,1082,1186,1649
+"Dallas, TX HUD Metro FMR Area",48397,1648,1931,2431
+"Runnels County, TX",48399,815,1069,1282
+"Rusk County, TX HUD Metro FMR Area",48401,895,1175,1451
+"Sabine County, TX",48403,742,973,1167
+"San Augustine County, TX",48405,811,1015,1321
+"San Jacinto County, TX HUD Metro FMR Area",48407,1048,1149,1536
+"Corpus Christi, TX HUD Metro FMR Area",48409,1117,1366,1796
+"San Saba County, TX",48411,786,1031,1288
+"Schleicher County, TX",48413,778,973,1266
+"Scurry County, TX",48415,1012,1109,1528
+"Shackelford County, TX",48417,778,973,1266
+"Shelby County, TX",48419,888,973,1353
+"Sherman County, TX",48421,778,973,1266
+"Tyler, TX MSA",48423,1089,1338,1793
+"Somervell County, TX",48425,811,1015,1321
+"Starr County, TX",48427,742,973,1353
+"Stephens County, TX",48429,811,1015,1321
+"Sterling County, TX",48431,899,1133,1519
+"Stonewall County, TX",48433,811,1015,1321
+"Sutton County, TX",48435,742,973,1214
+"Swisher County, TX",48437,783,973,1353
+"Fort Worth-Arlington, TX HUD Metro FMR Area",48439,1473,1723,2273
+"Abilene, TX MSA",48441,1020,1276,1653
+"Terrell County, TX",48443,811,1015,1321
+"Terry County, TX",48445,778,973,1266
+"Throckmorton County, TX",48447,788,986,1182
+"Titus County, TX",48449,779,973,1263
+"San Angelo, TX MSA",48451,1049,1339,1821
+"Austin-Round Rock-San Marcos, TX MSA",48453,1562,1852,2347
+"Trinity County, TX",48455,818,1010,1211
+"Tyler County, TX",48457,793,1040,1247
+"Longview, TX HUD Metro FMR Area",48459,1013,1199,1606
+"Upton County, TX",48461,811,1015,1321
+"Uvalde County, TX",48463,856,1123,1488
+"Val Verde County, TX",48465,863,1064,1450
+"Van Zandt County, TX",48467,844,1108,1458
+"Victoria, TX MSA",48469,1153,1442,1729
+"Walker County, TX",48471,1097,1210,1602
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",48473,1323,1573,2116
+"Ward County, TX",48475,963,1215,1576
+"Washington County, TX",48477,998,1309,1692
+"Laredo, TX MSA",48479,962,1161,1499
+"Wharton County, TX",48481,838,1100,1500
+"Wheeler County, TX",48483,806,1008,1209
+"Wichita Falls, TX MSA",48485,925,1136,1553
+"Wilbarger County, TX",48487,757,993,1191
+"Willacy County, TX",48489,742,973,1353
+"Austin-Round Rock-San Marcos, TX MSA",48491,1562,1852,2347
+"San Antonio-New Braunfels, TX HUD Metro FMR Area",48493,1177,1426,1830
+"Winkler County, TX",48495,782,978,1173
+"Wise County, TX HUD Metro FMR Area",48497,918,1205,1676
+"Wood County, TX",48499,814,1022,1260
+"Yoakum County, TX",48501,1082,1186,1422
+"Young County, TX",48503,761,998,1388
+"Zapata County, TX",48505,751,973,1167
+"Zavala County, TX",48507,778,973,1353
+"Beaver County, UT",49001,988,1186,1466
+"Box Elder County, UT",49003,983,1118,1555
+"Logan, UT-ID MSA",49005,946,1241,1726
+"Carbon County, UT",49007,857,1041,1323
+"Daggett County, UT",49009,960,1153,1569
+"Ogden, UT MSA",49011,1281,1614,2163
+"Duchesne County, UT",49013,940,1129,1481
+"Emery County, UT",49015,888,973,1310
+"Garfield County, UT",49017,898,984,1211
+"Grand County, UT",49019,1303,1564,2128
+"Iron County, UT",49021,888,1120,1558
+"Provo-Orem-Lehi, UT MSA",49023,1265,1460,2031
+"Kane County, UT",49025,1265,1660,1990
+"Millard County, UT",49027,857,1124,1550
+"Ogden, UT MSA",49029,1281,1614,2163
+"Piute County, UT",49031,960,1153,1569
+"Rich County, UT",49033,810,973,1299
+"Salt Lake City, UT HUD Metro FMR Area",49035,1456,1747,2333
+"San Juan County, UT",49037,872,1144,1372
+"Sanpete County, UT",49039,900,1181,1441
+"Sevier County, UT",49041,945,1085,1440
+"Summit County, UT",49043,1887,2185,2958
+"Tooele County, UT HUD Metro FMR Area",49045,946,1241,1667
+"Uintah County, UT",49047,846,1032,1406
+"Provo-Orem-Lehi, UT MSA",49049,1265,1460,2031
+"Wasatch County, UT",49051,1594,1747,2430
+"St. George, UT MSA",49053,1218,1575,2072
+"Wayne County, UT",49055,810,973,1228
+"Ogden, UT MSA",49057,1281,1614,2163
+"Addison County, VT",50001,1124,1438,1761
+"Bennington County, VT",50003,1142,1297,1804
+"Caledonia County, VT",50005,992,1159,1610
+"Burlington-South Burlington, VT MSA",50007,1651,2140,2745
+"Essex County, VT",50009,919,1007,1400
+"Burlington-South Burlington, VT MSA",50011,1651,2140,2745
+"Burlington-South Burlington, VT MSA",50013,1651,2140,2745
+"Lamoille County, VT",50015,1066,1345,1861
+"Orange County, VT",50017,1167,1362,1757
+"Orleans County, VT",50019,993,1184,1528
+"Rutland County, VT",50021,1026,1345,1638
+"Washington County, VT",50023,1129,1482,1824
+"Windham County, VT",50025,1161,1423,1710
+"Windsor County, VT",50027,1168,1362,1786
+"Accomack County, VA",51001,856,1054,1367
+"Charlottesville, VA MSA",51003,1602,1824,2218
+"Alleghany County-Clifton Forge city-Covington city, VA HUD Nonmet",51005,778,914,1259
+"Richmond, VA HUD Metro FMR Area",51007,1507,1655,2072
+"Lynchburg, VA MSA",51009,1033,1187,1635
+"Lynchburg, VA MSA",51011,1033,1187,1635
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51013,2015,2246,2835
+"Staunton-Stuarts Draft, VA MSA",51015,1095,1261,1734
+"Bath County, VA",51017,801,977,1171
+"Lynchburg, VA MSA",51019,1033,1187,1635
+"Bland County, VA",51021,749,914,1271
+"Roanoke, VA HUD Metro FMR Area",51023,1053,1254,1743
+"Brunswick County, VA",51025,749,914,1271
+"Buchanan County, VA",51027,834,914,1271
+"Buckingham County, VA",51029,875,959,1266
+"Lynchburg, VA MSA",51031,1033,1187,1635
+"Caroline County, VA",51033,1021,1246,1733
+"Carroll County-Galax city, VA HUD Nonmetro FMR Area",51035,770,914,1271
+"Richmond, VA HUD Metro FMR Area",51036,1507,1655,2072
+"Charlotte County, VA",51037,697,914,1146
+"Richmond, VA HUD Metro FMR Area",51041,1507,1655,2072
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51043,2015,2246,2835
+"Roanoke, VA HUD Metro FMR Area",51045,1053,1254,1743
+"Culpeper County, VA HUD Metro FMR Area",51047,1170,1423,1978
+"Cumberland County, VA",51049,817,997,1195
+"Dickenson County, VA",51051,749,914,1096
+"Richmond, VA HUD Metro FMR Area",51053,1507,1655,2072
+"Essex County, VA",51057,912,1113,1341
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51059,2015,2246,2835
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51061,2015,2246,2835
+"Floyd County, VA HUD Metro FMR Area",51063,834,1094,1312
+"Charlottesville, VA MSA",51065,1602,1824,2218
+"Franklin County, VA HUD Metro FMR Area",51067,861,944,1313
+"Winchester, VA-WV MSA",51069,1255,1573,1965
+"Giles County, VA HUD Metro FMR Area",51071,898,984,1180
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51073,1512,1713,2376
+"Richmond, VA HUD Metro FMR Area",51075,1507,1655,2072
+"Grayson County, VA",51077,834,914,1241
+"Charlottesville, VA MSA",51079,1602,1824,2218
+"Greensville County-Emporia city, VA HUD Nonmetro FMR Area",51081,769,1001,1392
+"Halifax County, VA",51083,827,914,1167
+"Richmond, VA HUD Metro FMR Area",51085,1507,1655,2072
+"Richmond, VA HUD Metro FMR Area",51087,1507,1655,2072
+"Henry County-Martinsville city, VA HUD Nonmetro FMR Area",51089,753,914,1096
+"Highland County, VA",51091,749,914,1233
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51093,1512,1713,2376
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51095,1512,1713,2376
+"King and Queen County, VA HUD Metro FMR Area",51097,1139,1250,1536
+"King George County, VA",51099,1211,1469,2043
+"Richmond, VA HUD Metro FMR Area",51101,1507,1655,2072
+"Lancaster County, VA",51103,862,1052,1463
+"Lee County, VA",51105,697,914,1226
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51107,2015,2246,2835
+"Louisa County, VA",51109,1138,1247,1734
+"Lunenburg County, VA",51111,697,914,1127
+"Madison County, VA",51113,971,1066,1483
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51115,1512,1713,2376
+"Mecklenburg County, VA",51117,724,950,1224
+"Middlesex County, VA",51119,1058,1291,1548
+"Blacksburg-Christiansburg-Radford, VA HUD Metro FMR Area",51121,993,1271,1706
+"Charlottesville, VA MSA",51125,1602,1824,2218
+"Richmond, VA HUD Metro FMR Area",51127,1507,1655,2072
+"Northampton County, VA",51131,723,949,1320
+"Northumberland County, VA",51133,1073,1309,1569
+"Nottoway County, VA",51135,743,975,1356
+"Orange County, VA",51137,1012,1234,1716
+"Page County, VA",51139,811,924,1157
+"Patrick County, VA",51141,763,914,1146
+"Pittsylvania County-Danville city, VA HUD Nonmetro FMR Area",51143,738,914,1263
+"Richmond, VA HUD Metro FMR Area",51145,1507,1655,2072
+"Prince Edward County, VA",51147,922,1094,1312
+"Richmond, VA HUD Metro FMR Area",51149,1507,1655,2072
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51153,2015,2246,2835
+"Pulaski County, VA HUD Metro FMR Area",51155,840,921,1252
+"Rappahannock County, VA HUD Metro FMR Area",51157,1254,1375,1649
+"Richmond County, VA",51159,882,1157,1464
+"Roanoke, VA HUD Metro FMR Area",51161,1053,1254,1743
+"Rockbridge County-Buena Vista city-Lexington city, VA HUD Nonmetr",51163,917,1005,1398
+"Harrisonburg, VA MSA",51165,1057,1322,1801
+"Russell County, VA",51167,748,914,1156
+"Kingsport-Bristol, TN-VA MSA",51169,818,1044,1338
+"Shenandoah County, VA",51171,855,1091,1394
+"Smyth County, VA",51173,753,914,1191
+"Southampton County-Franklin city, VA HUD Nonmetro FMR Area",51175,817,1051,1346
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51177,2015,2246,2835
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51179,2015,2246,2835
+"Surry County, VA HUD Metro FMR Area",51181,920,1039,1445
+"Richmond, VA HUD Metro FMR Area",51183,1507,1655,2072
+"Tazewell County, VA",51185,732,914,1096
+"Warren County, VA HUD Metro FMR Area",51187,1002,1315,1754
+"Kingsport-Bristol, TN-VA MSA",51191,818,1044,1338
+"Westmoreland County, VA",51193,979,1194,1658
+"Wise County-Norton city, VA HUD Nonmetro FMR Area",51195,697,914,1205
+"Wythe County, VA",51197,762,914,1212
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51199,1512,1713,2376
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51510,2015,2246,2835
+"Kingsport-Bristol, TN-VA MSA",51520,818,1044,1338
+"Rockbridge County-Buena Vista city-Lexington city, VA HUD Nonmetr",51530,917,1005,1398
+"Charlottesville, VA MSA",51540,1602,1824,2218
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51550,1512,1713,2376
+"Richmond, VA HUD Metro FMR Area",51570,1507,1655,2072
+"Alleghany County-Clifton Forge city-Covington city, VA HUD Nonmet",51580,778,914,1259
+"Pittsylvania County-Danville city, VA HUD Nonmetro FMR Area",51590,738,914,1263
+"Greensville County-Emporia city, VA HUD Nonmetro FMR Area",51595,769,1001,1392
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51600,2015,2246,2835
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51610,2015,2246,2835
+"Southampton County-Franklin city, VA HUD Nonmetro FMR Area",51620,817,1051,1346
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51630,2015,2246,2835
+"Carroll County-Galax city, VA HUD Nonmetro FMR Area",51640,770,914,1271
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51650,1512,1713,2376
+"Harrisonburg, VA MSA",51660,1057,1322,1801
+"Richmond, VA HUD Metro FMR Area",51670,1507,1655,2072
+"Rockbridge County-Buena Vista city-Lexington city, VA HUD Nonmetr",51678,917,1005,1398
+"Lynchburg, VA MSA",51680,1033,1187,1635
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51683,2015,2246,2835
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",51685,2015,2246,2835
+"Henry County-Martinsville city, VA HUD Nonmetro FMR Area",51690,753,914,1096
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51700,1512,1713,2376
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51710,1512,1713,2376
+"Wise County-Norton city, VA HUD Nonmetro FMR Area",51720,697,914,1205
+"Richmond, VA HUD Metro FMR Area",51730,1507,1655,2072
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51735,1512,1713,2376
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51740,1512,1713,2376
+"Blacksburg-Christiansburg-Radford, VA HUD Metro FMR Area",51750,993,1271,1706
+"Richmond, VA HUD Metro FMR Area",51760,1507,1655,2072
+"Roanoke, VA HUD Metro FMR Area",51770,1053,1254,1743
+"Roanoke, VA HUD Metro FMR Area",51775,1053,1254,1743
+"Staunton-Stuarts Draft, VA MSA",51790,1095,1261,1734
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51800,1512,1713,2376
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51810,1512,1713,2376
+"Staunton-Stuarts Draft, VA MSA",51820,1095,1261,1734
+"Virginia Beach-Norfolk-Newport News, VA-NC HUD Metro FMR Area",51830,1512,1713,2376
+"Winchester, VA-WV MSA",51840,1255,1573,1965
+"Adams County, WA",53001,863,1133,1576
+"Lewiston, ID-WA MSA",53003,931,1220,1697
+"Kennewick-Richland, WA MSA",53005,1268,1538,2071
+"Wenatchee-East Wenatchee, WA MSA",53007,1143,1500,2063
+"Clallam County, WA",53009,966,1266,1761
+"Portland-Vancouver-Hillsboro, OR-WA MSA",53011,1677,1922,2619
+"Columbia County, WA",53013,951,1052,1463
+"Longview-Kelso, WA MSA",53015,1199,1451,2018
+"Wenatchee-East Wenatchee, WA MSA",53017,1143,1500,2063
+"Ferry County, WA",53019,742,973,1353
+"Kennewick-Richland, WA MSA",53021,1268,1538,2071
+"Garfield County, WA",53023,798,1047,1456
+"Grant County, WA",53025,939,1232,1707
+"Grays Harbor County, WA",53027,927,1216,1691
+"Island County, WA",53029,1356,1671,2324
+"Jefferson County, WA",53031,1165,1367,1901
+"Seattle-Bellevue, WA HUD Metro FMR Area",53033,2146,2501,3272
+"Bremerton-Silverdale-Port Orchard, WA MSA",53035,1548,2031,2676
+"Kittitas County, WA",53037,1108,1454,2022
+"Klickitat County, WA",53039,1018,1336,1602
+"Lewis County, WA",53041,975,1279,1688
+"Lincoln County, WA",53043,778,1021,1420
+"Mason County, WA",53045,1032,1354,1883
+"Okanogan County, WA",53047,828,1043,1428
+"Pacific County, WA",53049,926,1134,1557
+"Pend Oreille County, WA",53051,838,1099,1379
+"Tacoma, WA HUD Metro FMR Area",53053,1605,1971,2733
+"San Juan County, WA",53055,1343,1762,2332
+"Mount Vernon-Anacortes, WA MSA",53057,1311,1720,2392
+"Portland-Vancouver-Hillsboro, OR-WA MSA",53059,1677,1922,2619
+"Seattle-Bellevue, WA HUD Metro FMR Area",53061,2146,2501,3272
+"Spokane, WA HUD Metro FMR Area",53063,1193,1531,2088
+"Stevens County, WA HUD Metro FMR Area",53065,885,1131,1573
+"Olympia-Lacey-Tumwater, WA MSA",53067,1682,1960,2613
+"Wahkiakum County, WA",53069,1021,1137,1581
+"Walla Walla, WA MSA",53071,1181,1550,2118
+"Bellingham, WA MSA",53073,1493,1794,2495
+"Whitman County, WA",53075,891,1169,1626
+"Yakima, WA MSA",53077,1047,1374,1911
+"Barbour County, WV",54001,793,869,1147
+"Martinsburg, WV HUD Metro FMR Area",54003,971,1233,1702
+"Boone County, WV HUD Metro FMR Area",54005,674,869,1195
+"Braxton County, WV",54007,665,869,1147
+"Weirton-Steubenville, WV-OH MSA",54009,757,973,1285
+"Huntington-Ashland, WV-KY-OH HUD Metro FMR Area",54011,853,973,1249
+"Calhoun County, WV",54013,706,869,1173
+"Charleston, WV HUD Metro FMR Area",54015,829,1036,1325
+"Doddridge County, WV",54017,754,928,1207
+"Fayette County, WV HUD Metro FMR Area",54019,697,915,1195
+"Gilmer County, WV",54021,793,869,1140
+"Grant County, WV",54023,662,869,1127
+"Greenbrier County, WV",54025,735,924,1179
+"Winchester, VA-WV MSA",54027,1255,1573,1965
+"Weirton-Steubenville, WV-OH MSA",54029,757,973,1285
+"Hardy County, WV",54031,784,932,1146
+"Harrison County, WV",54033,843,955,1264
+"Jackson County, WV",54035,726,869,1137
+"Jefferson County, WV HUD Metro FMR Area",54037,953,1251,1740
+"Charleston, WV HUD Metro FMR Area",54039,829,1036,1325
+"Lewis County, WV",54041,754,869,1146
+"Lincoln County, WV",54043,714,869,1042
+"Logan County, WV",54045,793,869,1209
+"McDowell County, WV",54047,662,869,1146
+"Marion County, WV",54049,838,1007,1235
+"Wheeling, WV-OH MSA",54051,816,991,1277
+"Mason County, WV",54053,793,869,1081
+"Mercer County, WV",54055,717,896,1206
+"Mineral County, WV",54057,695,869,1146
+"Mingo County, WV",54059,696,898,1077
+"Morgantown, WV MSA",54061,877,1099,1318
+"Monroe County, WV",54063,706,869,1209
+"Morgan County, WV HUD Metro FMR Area",54065,732,961,1221
+"Nicholas County, WV",54067,696,869,1125
+"Wheeling, WV-OH MSA",54069,816,991,1277
+"Pendleton County, WV",54071,706,869,1209
+"Pleasants County, WV",54073,662,869,1173
+"Pocahontas County, WV",54075,788,869,1146
+"Morgantown, WV MSA",54077,877,1099,1318
+"Putnam County, WV HUD Metro FMR Area",54079,803,1054,1461
+"Raleigh County, WV HUD Metro FMR Area",54081,719,944,1313
+"Randolph County, WV",54083,708,929,1183
+"Ritchie County, WV",54085,662,869,1042
+"Roane County, WV",54087,793,869,1173
+"Summers County, WV",54089,706,869,1146
+"Taylor County, WV",54091,774,953,1286
+"Tucker County, WV",54093,699,869,1209
+"Tyler County, WV",54095,706,869,1124
+"Upshur County, WV",54097,732,961,1205
+"Huntington-Ashland, WV-KY-OH HUD Metro FMR Area",54099,853,973,1249
+"Webster County, WV",54101,662,869,1061
+"Wetzel County, WV",54103,714,937,1206
+"Parkersburg-Vienna, WV MSA",54105,745,928,1194
+"Parkersburg-Vienna, WV MSA",54107,745,928,1194
+"Wyoming County, WV",54109,748,869,1173
+"Adams County, WI",55001,818,973,1236
+"Ashland County, WI",55003,742,973,1353
+"Barron County, WI",55005,750,984,1262
+"Bayfield County, WI",55007,742,973,1283
+"Green Bay, WI HUD Metro FMR Area",55009,931,1164,1545
+"Buffalo County, WI",55011,742,973,1184
+"Burnett County, WI",55013,742,974,1168
+"Appleton, WI MSA",55015,960,1236,1701
+"Eau Claire, WI MSA",55017,962,1181,1582
+"Clark County, WI",55019,754,973,1238
+"Columbia County, WI HUD Metro FMR Area",55021,911,1195,1645
+"Crawford County, WI",55023,888,973,1167
+"Madison, WI HUD Metro FMR Area",55025,1482,1694,2236
+"Dodge County, WI",55027,873,1080,1454
+"Door County, WI",55029,870,1141,1386
+"Duluth, MN-WI MSA",55031,978,1232,1689
+"Dunn County, WI",55033,787,1024,1363
+"Eau Claire, WI MSA",55035,962,1181,1582
+"Florence County, WI",55037,767,1007,1241
+"Fond du Lac, WI MSA",55039,946,1176,1522
+"Forest County, WI",55041,742,973,1182
+"Grant County, WI",55043,762,973,1213
+"Green County, WI HUD Metro FMR Area",55045,840,1097,1315
+"Green Lake County, WI",55047,742,973,1167
+"Iowa County, WI HUD Metro FMR Area",55049,890,1168,1535
+"Iron County, WI",55051,758,973,1214
+"Jackson County, WI",55053,787,973,1167
+"Jefferson County, WI",55055,917,1156,1530
+"Juneau County, WI",55057,742,973,1195
+"Kenosha, WI MSA",55059,1092,1402,1899
+"Green Bay, WI HUD Metro FMR Area",55061,931,1164,1545
+"La Crosse-Onalaska, WI-MN HUD Metro FMR Area",55063,889,1166,1515
+"Lafayette County, WI",55065,819,973,1353
+"Langlade County, WI",55067,742,973,1167
+"Lincoln County, WI",55069,747,973,1353
+"Manitowoc County, WI",55071,742,973,1167
+"Wausau, WI MSA",55073,889,1147,1511
+"Marinette County, WI",55075,745,973,1167
+"Marquette County, WI",55077,772,973,1247
+"Menominee County, WI",55078,888,973,1314
+"Milwaukee-Waukesha, WI MSA",55079,1119,1338,1648
+"Monroe County, WI",55081,828,1036,1360
+"Oconto County, WI HUD Metro FMR Area",55083,793,973,1272
+"Oneida County, WI",55085,887,1013,1215
+"Appleton, WI MSA",55087,960,1236,1701
+"Milwaukee-Waukesha, WI MSA",55089,1119,1338,1648
+"Pepin County, WI",55091,742,973,1329
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",55093,1405,1709,2262
+"Polk County, WI",55095,836,1097,1357
+"Portage County, WI",55097,794,1037,1243
+"Price County, WI",55099,742,973,1211
+"Racine-Mount Pleasant, WI MSA",55101,988,1235,1592
+"Richland County, WI",55103,815,973,1167
+"Janesville-Beloit, WI MSA",55105,955,1246,1596
+"Rusk County, WI",55107,742,973,1196
+"Minneapolis-St. Paul-Bloomington, MN-WI HUD Metro FMR Area",55109,1405,1709,2262
+"Sauk County, WI",55111,951,1111,1404
+"Sawyer County, WI",55113,801,1051,1260
+"Shawano County, WI",55115,814,973,1245
+"Sheboygan, WI MSA",55117,888,1116,1351
+"Taylor County, WI",55119,778,973,1245
+"Trempealeau County, WI",55121,753,988,1303
+"Vernon County, WI HUD Metro FMR Area",55123,760,973,1221
+"Vilas County, WI",55125,780,973,1167
+"Walworth County, WI",55127,919,1206,1517
+"Washburn County, WI",55129,743,975,1169
+"Milwaukee-Waukesha, WI MSA",55131,1119,1338,1648
+"Milwaukee-Waukesha, WI MSA",55133,1119,1338,1648
+"Waupaca County, WI",55135,779,973,1283
+"Waushara County, WI",55137,742,973,1291
+"Oshkosh-Neenah, WI MSA",55139,889,1149,1543
+"Wood County, WI",55141,742,973,1220
+"Albany County, WY",56001,786,963,1339
+"Big Horn County, WY",56003,871,963,1189
+"Campbell County, WY",56005,896,1019,1344
+"Carbon County, WY",56007,854,980,1293
+"Converse County, WY",56009,782,1026,1412
+"Crook County, WY",56011,739,963,1227
+"Fremont County, WY",56013,753,963,1320
+"Goshen County, WY",56015,734,963,1293
+"Hot Springs County, WY",56017,734,963,1339
+"Johnson County, WY",56019,850,1115,1368
+"Cheyenne, WY MSA",56021,917,1174,1633
+"Lincoln County, WY",56023,734,963,1339
+"Casper, WY MSA",56025,852,1082,1505
+"Niobrara County, WY",56027,910,1186,1632
+"Park County, WY",56029,734,963,1338
+"Platte County, WY",56031,785,963,1253
+"Sheridan County, WY",56033,860,1129,1354
+"Sublette County, WY",56035,764,995,1384
+"Sweetwater County, WY",56037,854,996,1263
+"Teton County, WY",56039,1260,1653,2216
+"Uinta County, WY",56041,734,963,1339
+"Washakie County, WY",56043,734,963,1339
+"Weston County, WY",56045,813,1059,1457
+American Samoa,60999,700,919,1278
+Guam,66010,1211,1589,2226
+Northern Mariana Islands,69999,735,965,1342
+"Adjuntas Municipio, PR Exception Area",72001,479,531,743
+"Aguadilla, PR MSA",72003,482,564,680
+"Aguadilla, PR MSA",72005,482,564,680
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72007,572,663,868
+"Barranquitas-Aibonito, PR HUD Metro FMR Area",72009,433,493,621
+"Aguadilla, PR MSA",72011,482,564,680
+"Arecibo, PR MSA",72013,440,510,699
+"Guayama, PR MSA",72015,418,475,637
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72017,572,663,868
+"Barranquitas-Aibonito, PR HUD Metro FMR Area",72019,433,493,621
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72021,572,663,868
+"San Germán, PR HUD Metro FMR Area",72023,410,530,659
+"Caguas, PR HUD Metro FMR Area",72025,475,576,801
+"Arecibo, PR MSA",72027,440,510,699
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72029,572,663,868
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72031,572,663,868
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72033,572,663,868
+"Caguas, PR HUD Metro FMR Area",72035,475,576,801
+"Fajardo, PR HUD Metro FMR Area",72037,490,600,736
+"Barranquitas-Aibonito, PR HUD Metro FMR Area",72039,433,493,621
+"Caguas, PR HUD Metro FMR Area",72041,475,576,801
+Puerto Rico HUD Nonmetro Area,72043,433,475,661
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72045,572,663,868
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72047,572,663,868
+Puerto Rico HUD Nonmetro Area,72049,433,475,661
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72051,572,663,868
+"Fajardo, PR HUD Metro FMR Area",72053,490,600,736
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72054,572,663,868
+Puerto Rico HUD Nonmetro Area,72055,433,475,661
+"Guayama, PR MSA",72057,418,475,637
+"Yauco, PR HUD Metro FMR Area",72059,443,486,664
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72061,572,663,868
+"Caguas, PR HUD Metro FMR Area",72063,475,576,801
+"Arecibo, PR MSA",72065,440,510,699
+"Mayagüez, PR HUD Metro FMR Area",72067,489,536,689
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72069,572,663,868
+"Aguadilla, PR MSA",72071,482,564,680
+Puerto Rico HUD Nonmetro Area,72073,433,475,661
+"Ponce, PR HUD Metro FMR Area",72075,491,538,748
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72077,572,663,868
+"San Germán, PR HUD Metro FMR Area",72079,410,530,659
+"Lares Municipio, PR Exception Area",72081,441,504,661
+"Las Marías Municipio, PR Exception Area",72083,467,516,661
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72085,572,663,868
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72087,572,663,868
+"Fajardo, PR HUD Metro FMR Area",72089,490,600,736
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72091,572,663,868
+Puerto Rico HUD Nonmetro Area,72093,433,475,661
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72095,572,663,868
+"Mayagüez, PR HUD Metro FMR Area",72097,489,536,689
+"Aguadilla, PR MSA",72099,482,564,680
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72101,572,663,868
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72103,572,663,868
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72105,572,663,868
+"Barranquitas-Aibonito, PR HUD Metro FMR Area",72107,433,493,621
+"Guayama, PR MSA",72109,418,475,637
+"Yauco, PR HUD Metro FMR Area",72111,443,486,664
+"Ponce, PR HUD Metro FMR Area",72113,491,538,748
+"Arecibo, PR MSA",72115,440,510,699
+"Aguadilla, PR MSA",72117,482,564,680
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72119,572,663,868
+"San Germán, PR HUD Metro FMR Area",72121,410,530,659
+Puerto Rico HUD Nonmetro Area,72123,433,475,661
+"San Germán, PR HUD Metro FMR Area",72125,410,530,659
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72127,572,663,868
+"Caguas, PR HUD Metro FMR Area",72129,475,576,801
+"Aguadilla, PR MSA",72131,482,564,680
+Puerto Rico HUD Nonmetro Area,72133,433,475,661
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72135,572,663,868
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72137,572,663,868
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72139,572,663,868
+"Utuado Municipio, PR Exception Area",72141,441,504,661
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72143,572,663,868
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72145,572,663,868
+Puerto Rico HUD Nonmetro Area,72147,433,475,661
+"Ponce, PR HUD Metro FMR Area",72149,491,538,748
+"San Juan-Guaynabo, PR HUD Metro FMR Area",72151,572,663,868
+"Yauco, PR HUD Metro FMR Area",72153,443,486,664
+"St. Croix Island, VI",78010,1023,1249,1504
+"St. John Island, VI",78020,1578,1969,2362
+"St. Thomas Island, VI",78030,1189,1467,1759

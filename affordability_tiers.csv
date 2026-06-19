@@ -1,0 +1,6 @@
+tier_id,tier_name,description
+1,Very Unaffordable,Less affordable than 90%% of zipcodes
+2,Below Average Affordability,Between 10th and 40th percentile affordability
+3,Average Affordability,Between 40th and 60th percentile affordability
+4,Above Average Affordability,Between 60th and 90th percentile affordability
+5,Very Affordable,More affordable than 90%% of zipcodes
