@@ -1,2 +1,4 @@
 zillow_full_data.csv
 *.db
+*.csv
+.DS_Store
